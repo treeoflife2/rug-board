@@ -7,18 +7,19 @@
 <meta name="description" content="Celebrity and influencer crypto scams: insider dumps, undisclosed promos, deleted promos and abandoned projects, with sources. Built on ZachXBT's investigations.">
 <meta property="og:title" content="Rug Board">
 <meta property="og:description" content="Every documented celebrity & influencer crypto scam, with amounts, outcomes and sources.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://treeoflife2.github.io/rug-board/">
+<meta name="twitter:card" content="summary">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧶</text></svg>">
 <style>
 :root {
   --bg: #f6f5f1; --panel: #ffffff; --ink: #16161a; --muted: #62626d; --line: #e2e0d8;
   --accent: #d6336c; --accent-ink: #fff; --chip: #efede6;
-  --dump: #c92a2a; --promo: #e8590c; --deleted: #7048e8; --abandoned: #1971c2;
   --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 }
 @media (prefers-color-scheme: dark) {
   :root { --bg: #0f0f12; --panel: #17171c; --ink: #ececf1; --muted: #9a9aa6; --line: #2a2a32;
-    --accent: #f06595; --chip: #22222a;
-    --dump: #ff6b6b; --promo: #ff922b; --deleted: #9775fa; --abandoned: #4dabf7; }
+    --accent: #f06595; --chip: #22222a; }
 }
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--bg); color: var(--ink);
@@ -51,7 +52,7 @@ details { background: var(--panel); border: 1px solid var(--line); border-radius
 details[open] { border-color: var(--muted); }
 details:target { outline: 2px solid var(--accent); }
 summary { list-style: none; cursor: pointer; padding: 10px 14px; display: grid; align-items: center; gap: 12px;
-  grid-template-columns: 92px minmax(0, 2.2fr) minmax(0, 1.2fr) 150px 110px; }
+  grid-template-columns: 92px minmax(0, 2.2fr) minmax(0, 1.2fr) 110px; }
 summary::-webkit-details-marker { display: none; }
 .date { color: var(--muted); font-family: var(--mono); font-size: 13px; }
 .who b { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
@@ -59,10 +60,6 @@ summary::-webkit-details-marker { display: none; }
 .tok { font-family: var(--mono); font-size: 14px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .amt { text-align: right; font-family: var(--mono); font-variant-numeric: tabular-nums; font-weight: 600; }
 .amt.none { color: var(--muted); font-weight: 400; }
-.badge { display: inline-block; font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 999px;
-  color: var(--c); border: 1px solid var(--c); white-space: nowrap; }
-.t-insider-dump { --c: var(--dump); } .t-undisclosed-promo { --c: var(--promo); }
-.t-deleted-promo { --c: var(--deleted); } .t-abandoned-project { --c: var(--abandoned); }
 .body { padding: 4px 14px 16px; border-top: 1px dashed var(--line); }
 .body p { margin: 10px 0; max-width: 85ch; }
 .kv { display: grid; grid-template-columns: 130px 1fr; gap: 4px 12px; font-size: 14px; margin: 10px 0; }
@@ -72,12 +69,17 @@ summary::-webkit-details-marker { display: none; }
 .src { margin: 6px 0 0; padding-left: 18px; font-size: 14px; word-break: break-all; }
 .actions { display: flex; gap: 14px; font-size: 13px; margin-top: 10px; }
 .empty { padding: 40px; text-align: center; color: var(--muted); }
+.excluded { margin: 40px 0 20px; }
+.excluded h2 { font-size: 18px; margin: 0; }
+.excluded h3 { font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin: 18px 0 6px; }
+#excl p { margin: 0; padding: 5px 0; border-bottom: 1px solid var(--line); font-size: 14px; color: var(--muted); }
+#excl b { color: var(--ink); font-weight: 600; }
 footer { border-top: 1px solid var(--line); padding: 20px 0 40px; color: var(--muted); font-size: 14px; }
 @media (max-width: 760px) {
   .filters { position: static; }
   summary { grid-template-columns: 1fr auto; gap: 4px 10px; }
   .date { grid-column: 1; } .amt { grid-column: 2; grid-row: 1; }
-  .who { grid-column: 1 / -1; } .tok { grid-column: 1; } .type { grid-column: 2; text-align: right; }
+  .who, .tok { grid-column: 1 / -1; }
   .kv { grid-template-columns: 1fr; } .kv dt { margin-top: 6px; }
 }
 </style>
@@ -111,12 +113,17 @@ footer { border-top: 1px solid var(--line); padding: 20px 0 40px; color: var(--m
   <div class="typebar" id="types"></div>
   <div class="count" id="count"></div>
   <div class="list" id="list"></div>
+  <section class="excluded" id="excluded" hidden>
+    <h2>Researched and excluded</h2>
+    <p class="sub">Names we looked into and left off the board, with the reason. New evidence that clears the bar can reopen any of them.</p>
+    <div id="excl"></div>
+  </section>
 </div>
 <footer>
   <div class="wrap">
     Data: <a href="data/scams.json">data/scams.json</a> ·
     <a href="https://github.com/treeoflife2/rug-board">Source &amp; how to contribute</a> ·
-    <a href="https://github.com/treeoflife2/rug-board/blob/main/excluded.md">Researched and excluded</a> ·
+    <a href="#excluded">Researched and excluded</a> ·
     Spot a mistake? <a href="https://github.com/treeoflife2/rug-board/issues/new">Open an issue</a>.
   </div>
 </footer>
@@ -125,7 +132,7 @@ const $ = id => document.getElementById(id);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const safeUrl = u => /^https?:\/\//i.test(u) ? u : '#';
 const slug = s => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-const usd = n => n == null ? '—' : '$' + Intl.NumberFormat('en', { notation: 'compact', maximumFractionDigits: 1 }).format(n);
+const usd = n => n == null ? '-' : '$' + Intl.NumberFormat('en', { notation: 'compact', maximumFractionDigits: 1 }).format(n);
 const day = t => new Date(t * 1000).toISOString().slice(0, 10);
 const year = t => new Date(t * 1000).getUTCFullYear();
 const TYPES = ['Insider Dump', 'Undisclosed Promo', 'Deleted Promo', 'Abandoned Project'];
@@ -174,25 +181,25 @@ function filtered() {
 }
 
 function card(r) {
-  const handle = r.handle ? `<a href="https://x.com/${esc(r.handle)}" target="_blank" rel="noopener">@${esc(r.handle)}</a>` : '—';
+  const handle = r.handle ? `<a href="https://x.com/${esc(r.handle)}" target="_blank" rel="noopener">@${esc(r.handle)}</a>` : '-';
   const person = '?q=' + encodeURIComponent(r.name);
   return `<details id="${r._id}">
     <summary>
       <span class="date">${day(r.date)}</span>
       <span class="who"><b>${esc(r.name)}</b><small>${esc(r.role)}${r.handle ? ' · @' + esc(r.handle) : ''}</small></span>
-      <span class="tok">${esc(r.token || '—')}${r.chain.length ? `<br><small>${esc(r.chain.join(', '))}</small>` : ''}</span>
-      <span class="type"><span class="badge t-${slug(r.scamType)}">${esc(r.scamType)}</span></span>
+      <span class="tok">${esc(r.token || '-')}${r.chain.length ? `<br><small>${esc(r.chain.join(', '))}</small>` : ''}</span>
       <span class="amt ${r.amount == null ? 'none' : ''}">${usd(r.amount)}</span>
     </summary>
     <div class="body">
       <p>${esc(r.description)}</p>
       <dl class="kv">
+        <dt>Type</dt><dd>${esc(r.scamType)}</dd>
         <dt>Amount taken</dt><dd>${r.amount == null ? 'No reliable estimate' : '$' + r.amount.toLocaleString('en')}</dd>
-        <dt>Breakdown</dt><dd>${esc(r.amountDesc || '—')}</dd>
+        <dt>Breakdown</dt><dd>${esc(r.amountDesc || '-')}</dd>
         <dt>Outcome</dt><dd>${esc(r.outcome || 'No legal or regulatory action documented')}</dd>
         <dt>Deleted promo</dt><dd>${r.deletedPromo ? 'Yes' : 'No'}</dd>
         <dt>Handle</dt><dd>${handle}</dd>
-        <dt>Chains</dt><dd><span class="chips">${r.chain.map(c => `<span class="chip">${esc(c)}</span>`).join('') || '—'}</span></dd>
+        <dt>Chains</dt><dd><span class="chips">${r.chain.map(c => `<span class="chip">${esc(c)}</span>`).join('') || '-'}</span></dd>
         <dt>Sources</dt><dd><ol class="src">${r.source.map(u => `<li><a href="${esc(safeUrl(u))}" target="_blank" rel="noopener noreferrer">${esc(u)}</a></li>`).join('')}</ol></dd>
       </dl>
       <div class="actions"><a href="#${r._id}" data-copy>Copy link to this record</a><a href="${esc(person)}">All records for ${esc(r.name)}</a></div>
@@ -239,6 +246,14 @@ fetch('data/scams.json').then(r => r.json()).then(json => {
   render();
   openHash();
 }).catch(e => { $('list').innerHTML = `<div class="empty">Could not load data/scams.json (${esc(e.message)}).</div>`; });
+
+// ponytail: excluded.md is the single source; only "## heading" and "- bullet" lines are rendered
+fetch('excluded.md').then(r => r.ok ? r.text() : Promise.reject()).then(md => {
+  const bold = s => esc(s).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
+  $('excl').innerHTML = md.split('\n').map(l =>
+    l.startsWith('## ') ? `<h3>${esc(l.slice(3))}</h3>` : l.startsWith('- ') ? `<p>${bold(l.slice(2))}</p>` : '').join('');
+  $('excluded').hidden = false;
+}).catch(() => {});
 
 for (const f of fields) $(f).addEventListener(f === 'q' ? 'input' : 'change', render);
 $('types').addEventListener('click', e => {
