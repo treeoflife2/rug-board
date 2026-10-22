@@ -1,0 +1,1651 @@
+[
+  {
+    "date": 1498867200,
+    "name": "BitConnect YouTube promoters (Trevon James, Craig Grant, Ryan Maasen, Michael Noble)",
+    "handle": null,
+    "role": "Crypto KOL",
+    "scamType": "Undisclosed Promo",
+    "token": "BCC",
+    "chain": [],
+    "amount": null,
+    "amountDesc": "Referral commissions from steering followers into the ~$2B BitConnect lending Ponzi; later default judgments of ~$3.5M against Trevon James and ~$2.6M against Craig Grant; BitConnect took in over 325,000 BTC from victims.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.sec.gov/news/press-release/2021-90",
+      "https://behindmlm.com/companies/bitconnect/sec-reveals-6-1-million-craig-grant-trevon-james-judgments/"
+    ],
+    "description": "A group of crypto-YouTube promoters who relentlessly marketed BitConnect's 'lending program' to their audiences through 2017, earning referral commissions on the deposits of followers they funneled into what the SEC and DOJ later described as a ~$2 billion Ponzi scheme. The SEC charged the four in May 2021 for promoting and selling BitConnect's unregistered securities without registering as broker-dealers. Maasen and Noble settled; courts later entered default judgments of roughly $3.5M against Trevon James (Trevon Brown) and $2.6M against Craig Grant.",
+    "outcome": "SEC charges (May 2021); Maasen and Noble settled; default judgments ~$3.5M vs Trevon James and ~$2.6M vs Craig Grant"
+  },
+  {
+    "date": 1498867200,
+    "name": "Glenn Arcaro",
+    "handle": null,
+    "role": "Crypto KOL",
+    "scamType": "Undisclosed Promo",
+    "token": "BCC",
+    "chain": [],
+    "amount": 24000000,
+    "amountDesc": "Admitted in his DOJ plea to earning no less than $24M promoting BitConnect, all of which he was ordered to repay to investors; BitConnect defrauded investors of over $2B (325,000+ BTC).",
+    "deletedPromo": false,
+    "source": [
+      "https://www.justice.gov/usao-sdca/pr/director-and-promoter-bitconnect-pleads-guilty-global-2-billion-cryptocurrency-scheme",
+      "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25286",
+      "https://www.coindesk.com/policy/2021/09/02/bitconnects-top-us-promoter-pleads-guilty-to-fraud-charge"
+    ],
+    "description": "BitConnect's top US promoter, who sat atop the 'BitConnect Referral Program' pyramid of North American promoters and used YouTube and live events to market the platform's fake 'trading bot' returns to retail investors. Per his September 2021 DOJ guilty plea to wire-fraud conspiracy, Arcaro admitted earning no less than $24 million from the fraud, which the court ordered him to repay. The SEC obtained a parallel judgment against him and his company Future Money in December 2021.",
+    "outcome": "Pleaded guilty to wire-fraud conspiracy (Sept 2021); ordered to repay $24M; sentenced to 38 months in prison (2022)"
+  },
+  {
+    "date": 1501113600,
+    "name": "Floyd Mayweather",
+    "handle": "FloydMayweather",
+    "role": "Athlete",
+    "scamType": "Undisclosed Promo",
+    "token": "Centra Tech (CTR)",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": 300000,
+    "amountDesc": "$300k in undisclosed promo fees from three 2017 ICOs, including $100k from Centra Tech; SEC settlement totaled $614,775. Centra raised $32M+ from investors on fabricated claims and its founders were convicted of fraud.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.sec.gov/news/press-release/2018-268",
+      "https://www.cnbc.com/2018/11/29/sec-charges-floyd-mayweather-dj-khaled-for-promoting-icos-without-disclosing-payments.html"
+    ],
+    "description": "Mayweather pushed three 2017 ICOs to his followers, including Centra Tech's CTR sale ('Get yours before they sell out, I got mine') and Stox ('You can call me Floyd Crypto Mayweather'), without disclosing $300k in promotional payments. The SEC settled touting charges with him in November 2018 for $614,775 plus a three-year ban on promoting securities. Centra Tech raised over $32M on fake Visa/Mastercard partnerships; founders Sharma and Farkas were criminally convicted.",
+    "outcome": "SEC settlement $614,775 + 3-year securities-promo ban (Nov 2018)"
+  },
+  {
+    "date": 1502755200,
+    "name": "The Game",
+    "handle": "thegame",
+    "role": "Musician",
+    "scamType": "Undisclosed Promo",
+    "token": "PRG",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": null,
+    "amountDesc": "His personal promo fee is undocumented; the court found he 'acted for his own gain or for Paragon's gain'. The ICO raised ~$12M per the SEC (Paragon claimed far more); a $12.1M default judgment was entered jointly against Taylor, Paragon and its founders.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.coindesk.com/markets/2021/06/25/rapper-the-game-stares-down-12m-joint-class-action-over-paragon-ico",
+      "https://news.bloomberglaw.com/class-action/paragon-coin-the-game-liable-for-12-million-in-securities-suit",
+      "https://www.sec.gov/newsroom/press-releases/2018-264"
+    ],
+    "description": "The Game (Jayceon Taylor) was the celebrity face of Paragon Coin's August-October 2017 ICO, promoting the cannabis-industry PRG token to his followers alongside founder Jessica VerSteeg. A federal court found him jointly and severally liable as a statutory seller of unregistered securities, entering a $12.1M default judgment against him, Paragon and its executives in 2021. The SEC had separately settled with Paragon in November 2018, ordering investor refunds and a $250K penalty for the unregistered offering.",
+    "outcome": "$12.1M joint default judgment (N.D. Cal. 2021); SEC settlement with Paragon (2018) ordering refunds + $250K penalty"
+  },
+  {
+    "date": 1504224000,
+    "name": "T.I.",
+    "handle": "Tip",
+    "role": "Musician",
+    "scamType": "Undisclosed Promo",
+    "token": "FLiK",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": null,
+    "amountDesc": "T.I.'s own take is undocumented -- Felton had promised the promoters compensation; his SEC penalty was $75K. Ringleader Ryan Felton secretly dumped FLiK tokens for an extra $2.2M and spent ICO proceeds on a Ferrari, jewelry and a home.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.sec.gov/newsroom/press-releases/2020-207",
+      "https://www.bloomberg.com/news/articles/2020-09-11/rapper-t-i-to-pay-75-000-sec-fine-for-promoting-fraudulent-ico",
+      "https://www.rollingstone.com/music/music-news/t-i-sec-flik-fraudulent-cryptocurrency-scheme-1058728/"
+    ],
+    "description": "In 2017 T.I. (Clifford Harris Jr.) offered and sold FLiK tokens on his social media accounts, falsely claiming to be a co-owner of the 'Netflix on the blockchain' project and urging followers to invest; the ICO was controlled by Atlanta fraudster Ryan Felton, who misappropriated the proceeds. The SEC settled charges with T.I. in September 2020: a $75K penalty and a five-year ban from participating in digital-asset securities offerings.",
+    "outcome": "SEC settlement $75K penalty + 5-year digital-asset offering ban (Sept 2020)"
+  },
+  {
+    "date": 1506470400,
+    "name": "DJ Khaled",
+    "handle": "djkhaled",
+    "role": "Musician",
+    "scamType": "Undisclosed Promo",
+    "token": "Centra (CTR)",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": 50000,
+    "amountDesc": "$50k undisclosed promo fee from Centra Tech; settled for $152,725 total (disgorgement, penalty, interest); Centra's $32M ICO was fraudulent and its founders were convicted",
+    "deletedPromo": false,
+    "source": [
+      "https://www.sec.gov/news/press-release/2018-268"
+    ],
+    "description": "DJ Khaled touted Centra Tech's ICO to his followers in September 2017 ('Game changer') without disclosing Centra paid him $50,000. In November 2018 the SEC settled first-of-their-kind ICO anti-touting charges against Khaled (alongside Floyd Mayweather), with Khaled paying $152,725 in disgorgement, penalty and interest; Centra Tech's founders were later convicted of fraud over the $32M ICO.",
+    "outcome": "SEC settlement (Nov 2018): $152,725; two-year promo ban"
+  },
+  {
+    "date": 1512086400,
+    "name": "John McAfee",
+    "handle": "officialmcafee",
+    "role": "Other",
+    "scamType": "Undisclosed Promo",
+    "token": null,
+    "chain": [],
+    "amount": 23200000,
+    "amountDesc": "SEC: more than $23.1M in undisclosed compensation, paid in the promoted issuers' own tokens, for touting at least seven ICOs that raised at least $41M from investors. The DOJ indictment separately put his hidden ICO-touting compensation at ~$11.6M.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.sec.gov/newsroom/press-releases/2020-246",
+      "https://www.justice.gov/opa/pr/founder-mcafee-antivirus-software-charged-fraudulent-cryptocurrency-schemes",
+      "https://www.theblock.co/linked/97357/john-mcafee-pump-dump-schemes-promotion-icos"
+    ],
+    "description": "From roughly December 2017 through February 2018, McAfee touted at least seven ICOs to his large Twitter following while posing as an impartial expert, without disclosing he was paid more than $23M in the issuers' tokens; per the SEC he denied being compensated when investors asked directly and falsely claimed to be an investor or adviser in some of the offerings. The DOJ indicted McAfee and his adviser Jimmy Watson in March 2021 on fraud and money-laundering conspiracy charges over the touting scheme.",
+    "outcome": "SEC and DOJ charges (2020-21); died in Spanish prison June 2021 awaiting extradition, never tried"
+  },
+  {
+    "date": 1514764800,
+    "name": "John McAfee",
+    "handle": "officialmcafee",
+    "role": "Other",
+    "scamType": "Insider Dump",
+    "token": null,
+    "chain": [],
+    "amount": 2000000,
+    "amountDesc": "DOJ: ~$2M from the scalping scheme -- accumulating cheap altcoins, touting them to followers as 'Coin of the Day/Week' picks, then dumping into the pump. DOJ said his two crypto schemes together netted more than $13M; the CFTC filed parallel civil charges.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.justice.gov/opa/pr/founder-mcafee-antivirus-software-charged-fraudulent-cryptocurrency-schemes",
+      "https://www.cftc.gov/PressRoom/PressReleases/8366-21",
+      "https://therecord.media/us-charges-infosec-veteran-john-mcafee-over-cryptocurrency-pump-and-dump-scheme"
+    ],
+    "description": "Per the March 2021 DOJ indictment, from December 2017 into 2018 McAfee's 'cryptocurrency team' bought large positions in thinly traded altcoins, then McAfee pumped them with 'Coin of the Day' and 'Coin of the Week' endorsement tweets presented as impartial advice while the team sold into the rallies. The CFTC brought parallel charges over the same scalping scheme against McAfee and executive adviser Jimmy Watson.",
+    "outcome": "DOJ indictment + CFTC charges (March 2021); died June 2021 before trial"
+  },
+  {
+    "date": 1517443200,
+    "name": "Steven Seagal",
+    "handle": "sseagalofficial",
+    "role": "Actor",
+    "scamType": "Undisclosed Promo",
+    "token": "B2G",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": 157000,
+    "amountDesc": "Promised $250K cash + $750K in B2G tokens for the promos; the SEC's $157K disgorgement represented the promotional payments he actually received. Settled for $314K total.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.sec.gov/newsroom/press-releases/2020-42",
+      "https://www.cnbc.com/2020/02/27/steven-seagal-charged-over-cryptocurrency-offering-payments.html"
+    ],
+    "description": "Seagal became 'brand ambassador' of the Bitcoiin2Gen (B2G) ICO in February 2018, urging followers on social media and in press releases not to 'miss out' on the offering without disclosing he was promised $250K in cash and $750K in B2G tokens. The SEC settled anti-touting charges in February 2020: $157K disgorgement plus prejudgment interest and a $157K penalty, with a three-year ban on promoting any securities. New Jersey regulators had earlier issued a cease-and-desist against the Bitcoiin2Gen offering.",
+    "outcome": "SEC settlement $314K + 3-year securities-promotion ban (Feb 2020)"
+  },
+  {
+    "date": 1530403200,
+    "name": "Ian Balina",
+    "handle": "DiaryofaMadeMan",
+    "role": "Crypto KOL",
+    "scamType": "Undisclosed Promo",
+    "token": "SPRK",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": null,
+    "amountDesc": "Per the SEC complaint, Sparkster agreed to pay Balina a 30% token bonus on the roughly $5M of SPRK he bought and pooled as compensation for his promotion; SPRK collapsed ~99% after the 2018 ICO. No reliable figure for what he realized.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26011",
+      "https://cryptoslate.com/court-rules-crypto-influencer-conducted-unregistered-offering-of-crypto-asset-securities/",
+      "https://crypto.news/sec-moves-to-dismiss-securities-lawsuit-against-crypto-influencer-ian-balina/"
+    ],
+    "description": "ICO-era YouTube/Telegram influencer who promoted the Sparkster (SPRK) ICO to his audience in mid-2018 and organized an investing pool for the token, without disclosing that Sparkster had agreed to give him a 30% bonus on his SPRK purchase as consideration for the promotion, per the SEC's 2022 charges. In May 2024 a Texas federal court granted the SEC summary judgment that SPRK was a security and Balina's pool an unregistered offering, letting the Section 17(b) undisclosed-promotion claim proceed. In May 2025 the SEC jointly stipulated to dismiss the case, citing its Crypto Task Force policy shift.",
+    "outcome": "SEC charges (Sept 2022); court found unregistered securities offering (May 2024); case jointly dismissed at SEC's request (May 2025)"
+  },
+  {
+    "date": 1612137600,
+    "name": "Kendra Lust",
+    "handle": "KendraLust",
+    "role": "Reality TV/Model",
+    "scamType": "Undisclosed Promo",
+    "token": "TRX",
+    "chain": [
+      "Tron"
+    ],
+    "amount": 955,
+    "amountDesc": "$955 undisclosed payment for touting TRX in early 2021. She settled alongside Lohan, Jake Paul, Lil Yachty, Ne-Yo and Akon -- the six settling celebrities paid a combined ~$400K in disgorgement, interest and penalties.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.sec.gov/newsroom/press-releases/2023-59",
+      "https://www.rollingstone.com/culture/culture-news/linsay-lohan-kendra-lust-charged-crypto-1234701789/"
+    ],
+    "description": "Adult-film star Kendra Lust (Michele Mason) was among the eight celebrities the SEC charged in March 2023 for touting Justin Sun's crypto assets without disclosing compensation; she was paid $955 to tell followers to 'use only $TRX cause it's fast, cheap and hot even PornHub likes it.' She settled without admitting or denying the findings.",
+    "outcome": "SEC settlement (disgorgement + penalty; six settling celebs paid combined ~$400K), March 2023"
+  },
+  {
+    "date": 1613001600,
+    "name": "Lindsay Lohan",
+    "handle": "lindsaylohan",
+    "role": "Actor",
+    "scamType": "Undisclosed Promo",
+    "token": "TRX",
+    "chain": [
+      "Tron"
+    ],
+    "amount": 10000,
+    "amountDesc": "$10K undisclosed payment for a February 2021 tweet touting TRX/JST/SUN; settled by disgorging the $10K plus interest and a $30K penalty (~$40K total).",
+    "deletedPromo": false,
+    "source": [
+      "https://www.sec.gov/newsroom/press-releases/2023-59",
+      "https://www.cnbc.com/2023/03/22/sec-hits-jake-paul-lindsey-lohan-justin-sun-with-crypto-violations.html"
+    ],
+    "description": "Lohan was one of eight celebrities the SEC charged in March 2023 for touting Justin Sun's TRX and/or BTT without disclosing payment, part of a campaign the SEC alleges Sun orchestrated while concealing that the celebrity endorsements were bought. She tweeted in February 2021 that she was 'exploring #DeFi and already liking $JST, $SUN on $TRX' after being paid $10K, and settled without admitting wrongdoing.",
+    "outcome": "SEC settlement ~$40K (disgorgement + interest + $30K penalty), March 2023"
+  },
+  {
+    "date": 1613088000,
+    "name": "Jake Paul",
+    "handle": "jakepaul",
+    "role": "Internet Celebrity",
+    "scamType": "Undisclosed Promo",
+    "token": "TRX",
+    "chain": [
+      "Tron"
+    ],
+    "amount": 25019,
+    "amountDesc": "SEC found Paul was paid $25,019 in crypto for touting TRX; he settled for roughly $101K in disgorgement, prejudgment interest and civil penalty. Six settling celebrities paid over $400K combined.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.sec.gov/news/press-release/2023-59",
+      "https://www.cnbc.com/2023/03/22/sec-hits-jake-paul-lindsey-lohan-justin-sun-with-crypto-violations.html"
+    ],
+    "description": "The SEC charged Jake Paul in March 2023 for touting Justin Sun's TRX in a Feb 12, 2021 tweet without disclosing he was paid $25,019 to do so, as part of Sun's scheme to pay celebrities to promote TRX and BTT. Paul settled without admitting or denying the charges, paying roughly $101K in disgorgement, interest and penalties.",
+    "outcome": "SEC settlement ~$101K (March 2023), no admission of wrongdoing"
+  },
+  {
+    "date": 1617667200,
+    "name": "Ben Phillips",
+    "handle": "BenPhillipsUK",
+    "role": "Internet Celebrity",
+    "scamType": "Deleted Promo",
+    "token": "SAFEMOON",
+    "chain": [
+      "BSC"
+    ],
+    "amount": 12000000,
+    "amountDesc": "Bought ~$4M of SafeMoon and sold ~$16M between March and December 2021 for a ~$12M profit per Coffeezilla's on-chain analysis; cashed out ~$721K the same day he tweeted \"Well I'm HOLDING\" (Apr 6, 2021). Promo tweets later deleted.",
+    "deletedPromo": true,
+    "source": [
+      "https://protos.com/youtuber-ben-phillips-made-12m-from-safemoon-crypto-pump-and-dump-scheme/",
+      "https://www.dexerto.com/entertainment/coffeezilla-exposes-uk-youtuber-ben-phillips-for-12m-crypto-scam-1804392/"
+    ],
+    "description": "British prankster YouTuber Ben Phillips pumped SafeMoon to his millions of followers throughout 2021, repeatedly telling them he was holding while his wallets sold, including ~$721K cashed out the same day as his \"Well I'm HOLDING\" tweet. Per Coffeezilla's investigation he bought roughly $4M and sold roughly $16M of SAFEMOON over the period, a ~$12M profit dumped on his audience. The promotional tweets were subsequently deleted.",
+    "outcome": null
+  },
+  {
+    "date": 1620691200,
+    "name": "KSI",
+    "handle": "KSI",
+    "role": "Internet Celebrity",
+    "scamType": "Insider Dump",
+    "token": "PUSSY",
+    "chain": [],
+    "amount": 25000,
+    "amountDesc": "Dumped his remaining $PUSSY tokens for ~$25K about one hour after tweeting \"The PU$$Y is about to explode\" on May 11, 2021, per ZachXBT.",
+    "deletedPromo": false,
+    "source": [
+      "https://esports-news.co.uk/2024/02/15/ksi-responds-crypto-pump-and-dump/",
+      "https://blockonomi.com/ksi-accused-of-crypto-pump-and-dump-schemes-by-prominent-investigators/"
+    ],
+    "description": "Per ZachXBT's wallet analysis published in February 2024, KSI tweeted \"The PU$$Y is about to explode\" at 10:12 AM UTC on May 11, 2021 and dumped his remaining PUSSY tokens roughly an hour later for about $25K. KSI responded to the broader pump-and-dump accusations by saying he had no malicious intent and was simply bad at crypto.",
+    "outcome": null
+  },
+  {
+    "date": 1621987200,
+    "name": "Adin Ross",
+    "handle": "adinross",
+    "role": "Streamer/Gamer",
+    "scamType": "Undisclosed Promo",
+    "token": "MILF",
+    "chain": [
+      "BSC"
+    ],
+    "amount": 200000,
+    "amountDesc": "Paid $200K to promote MILF Token per Coffeezilla's on-chain receipts; his May 26, 2021 stream and giveaway to 75K+ viewers spiked trading volume by millions of dollars, letting whales exit before the token bled out.",
+    "deletedPromo": true,
+    "source": [
+      "https://x.com/coffeebreak_YT/status/1422311882065580035",
+      "https://www.dexerto.com/entertainment/youtuber-coffeezilla-accuses-adin-ross-of-lying-about-crypto-scam-1624600/"
+    ],
+    "description": "Ross promoted MILF Token to his Twitch audience with a $10K giveaway on May 26, 2021. Per Coffeezilla's investigation he was paid $200K for the promo, which was designed to inflate trading volume so large holders could exit. Coffeezilla called Ross's defense that the price didn't pump \"completely false\" because the scam relied on volume, not price. Ross deleted the giveaway tweet and denied running a scam, calling it a bad promo.",
+    "outcome": null
+  },
+  {
+    "date": 1621987200,
+    "name": "Paul Pierce",
+    "handle": "paulpierce34",
+    "role": "Athlete",
+    "scamType": "Undisclosed Promo",
+    "token": "EMAX",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": 244000,
+    "amountDesc": "$244k+ in EMAX tokens received for the undisclosed promos; SEC settlement of $1.409M ($240k disgorgement + interest, $1.115M penalty). EMAX collapsed ~97% after the promo wave.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.sec.gov/newsroom/press-releases/2023-34",
+      "https://www.coindesk.com/policy/2023/02/17/sec-sues-former-nba-star-paul-pierce-over-ethereummax-promos"
+    ],
+    "description": "Pierce touted EthereumMax to his Twitter followers in May-June 2021 without disclosing he was paid more than $244,000 in EMAX tokens to do so, and the SEC found he tweeted a screenshot showing large holdings and profits that were far bigger than his actual position. He settled SEC touting and misleading-statement charges in February 2023 for $1.409M and a three-year ban on promoting crypto asset securities. He was also named in the EMAX investor class action alongside Kim Kardashian and Floyd Mayweather.",
+    "outcome": "SEC settlement $1.409M + 3-year crypto-promo ban (Feb 2023)"
+  },
+  {
+    "date": 1621987200,
+    "name": "Soulja Boy",
+    "handle": "souljaboy",
+    "role": "Musician",
+    "scamType": "Deleted Promo",
+    "token": "SaferMars",
+    "chain": [
+      "BSC"
+    ],
+    "amount": null,
+    "amountDesc": "Leaked terms promised him $24k if the project raised $240k after his tweet; whether it paid out is undocumented",
+    "deletedPromo": true,
+    "source": [
+      "https://protos.com/soulja-boy-safermars-deleted-tweet-oopsie-celeb-touting-violations/"
+    ],
+    "description": "On May 26, 2021 Soulja Boy tweeted a promo for SafeMoon-clone SaferMars that accidentally included his pay-to-play terms: 'They raising $240k, if they raise it after your tweet – will get you $24k', then deleted it and re-posted clean shills minutes later. Protos documented the deleted tweet and compared the undisclosed touting to the conduct the SEC fined Floyd Mayweather and DJ Khaled for.",
+    "outcome": null
+  },
+  {
+    "date": 1622764800,
+    "name": "Floyd Mayweather",
+    "handle": "FloydMayweather",
+    "role": "Athlete",
+    "scamType": "Undisclosed Promo",
+    "token": "EMAX",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": null,
+    "amountDesc": "Promo fee undisclosed; EMAX fell ~97% from its June 2021 highs after the celebrity promo wave, per the investor class action.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.cnbc.com/2022/01/12/kim-kardashian-and-floyd-mayweather-sued-over-alleged-crypto-scam.html",
+      "https://www.nbcnews.com/tech/tech-news/kim-kardashian-floyd-mayweather-sued-investors-alleged-crypto-scam-rcna11921"
+    ],
+    "description": "Mayweather promoted EthereumMax around the Bitcoin 2021 conference and his June 2021 Logan Paul exhibition, which EMAX sponsored, including EMAX branding on his fight gear, as the token was being pumped to retail. A January 2022 federal class action alleged he, Kim Kardashian, Paul Pierce and EMAX insiders made false or misleading statements that artificially inflated the token so insiders could sell; EMAX lost roughly 97% of its value. The SEC's later EMAX actions charged fellow promoters Kardashian and Pierce; Mayweather was not charged by the SEC.",
+    "outcome": "Named in EMAX investor class action (filed Jan 2022)"
+  },
+  {
+    "date": 1622851200,
+    "name": "FaZe Clan members (Jarvis, Nikan, Teeqo)",
+    "handle": null,
+    "role": "Streamer/Gamer",
+    "scamType": "Insider Dump",
+    "token": "KIDS",
+    "chain": [
+      "BSC"
+    ],
+    "amount": null,
+    "amountDesc": "Per Coffeezilla's wallet analysis Jarvis sold about two-thirds and Nikan about one-third of their $KIDS allocations into the launch pump; the token fell from ~$0.02 to under half a cent within weeks.",
+    "deletedPromo": true,
+    "source": [
+      "https://cryptoslate.com/faze-clan-fires-one-suspends-3-players-embroiled-in-alleged-save-the-kids-crypto-scam/",
+      "https://www.tubefilter.com/2021/07/02/faze-clan-save-the-kids-token-cryptocurrency-pump-and-dump/",
+      "https://kotaku.com/faze-clan-members-skewered-by-fans-following-huge-crypt-1847188685"
+    ],
+    "description": "FaZe Jarvis, Nikan and Teeqo promoted the Save the Kids charity token to their young audiences ahead of its June 2021 launch, then per Coffeezilla's on-chain analysis Jarvis and Nikan sold large parts of their allocations into the launch pump while the anti-whale protection had been secretly gutted. FaZe Clan suspended all three; the promoters deleted their Save the Kids posts. A FaZe talent manager was separately reported to have taken a 20% cut brokering crypto promos.",
+    "outcome": "Suspended by FaZe Clan (July 2021); Teeqo later reinstated; no charges"
+  },
+  {
+    "date": 1622851200,
+    "name": "FaZe Kay (Frazier Khattri)",
+    "handle": "FaZeKay",
+    "role": "Streamer/Gamer",
+    "scamType": "Insider Dump",
+    "token": "KIDS",
+    "chain": [
+      "BSC"
+    ],
+    "amount": 80000,
+    "amountDesc": "Sold nearly his entire $KIDS allocation, estimated around $80K, into the launch pump per Coffeezilla's wallet analysis; the charity-branded token collapsed ~70-90% within days of its June 5, 2021 launch.",
+    "deletedPromo": true,
+    "source": [
+      "https://protos.com/save-the-kids-faze-clan-kay-coffeezilla-proves-rug-pulls/",
+      "https://cryptoslate.com/faze-clan-fires-one-suspends-3-players-embroiled-in-alleged-save-the-kids-crypto-scam/",
+      "https://www.pcgamer.com/former-faze-member-threatens-legal-action-against-youtubers-who-exposed-his-crypto-scheme/"
+    ],
+    "description": "FaZe Kay led promotion of Save the Kids ($KIDS), a BSC token marketed to a largely teenage audience as a charity coin. The advertised anti-whale sell limit was secretly changed from 24 hours to 60 seconds before launch, and Coffeezilla's wallet tracking showed Kay dumped almost his whole position immediately and had pumped and dumped multiple earlier tokens the same way. FaZe Clan fired him in July 2021; he deleted his promotional posts and threatened legal action against the YouTubers who exposed him.",
+    "outcome": "Fired by FaZe Clan (July 2021); no charges filed"
+  },
+  {
+    "date": 1622851200,
+    "name": "RiceGum (Bryan Le)",
+    "handle": "RiceGum",
+    "role": "Internet Celebrity",
+    "scamType": "Deleted Promo",
+    "token": "KIDS",
+    "chain": [
+      "BSC"
+    ],
+    "amount": null,
+    "amountDesc": "No reliable estimate of his personal take; he promoted $KIDS to millions of followers alongside FaZe members and the token collapsed ~90% within weeks.",
+    "deletedPromo": true,
+    "source": [
+      "https://protos.com/save-the-kids-faze-clan-kay-coffeezilla-proves-rug-pulls/",
+      "https://www.aol.com/news/faze-clan-members-suspended-following-214138085.html"
+    ],
+    "description": "RiceGum joined FaZe Clan members in advertising the Save the Kids charity token to their combined millions of followers before its June 2021 launch. After the token collapsed and the pump-and-dump mechanics were exposed by Coffeezilla, he deleted his promotional posts about the coin. No wallet analysis attributing dump profits to RiceGum specifically has been published.",
+    "outcome": null
+  },
+  {
+    "date": 1622851200,
+    "name": "Sam Pepper",
+    "handle": "sampepper",
+    "role": "Internet Celebrity",
+    "scamType": "Insider Dump",
+    "token": "KIDS",
+    "chain": [
+      "BSC"
+    ],
+    "amount": null,
+    "amountDesc": "No reliable estimate of his personal take; per Coffeezilla he architected the token whose anti-whale limit was cut from 24 hours to 60 seconds, enabling insiders to dump on retail at launch.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.dexerto.com/entertainment/kay-blames-faze-employee-savethekids-crypto-scam-1631395/",
+      "https://www.esportstalk.com/news/kay-pins-savethekids-scandal-on-sam-pepper-in-statement/"
+    ],
+    "description": "Per Coffeezilla's investigation, YouTuber and former FaZe Clan head of content Sam Pepper was a primary architect of the Save the Kids token, allegedly ordering the developer to change the advertised anti-whale sell limit from 24 hours to 60 seconds before launch, the modification that let insiders dump on buyers. FaZe Kay publicly blamed Pepper for designing the token, its presale and its website, saying trusting him was a mistake.",
+    "outcome": null
+  },
+  {
+    "date": 1622851200,
+    "name": "Sommer Ray",
+    "handle": "sommerray",
+    "role": "Reality TV/Model",
+    "scamType": "Deleted Promo",
+    "token": "KIDS",
+    "chain": [
+      "BSC"
+    ],
+    "amount": null,
+    "amountDesc": "No reliable estimate of her personal take; she was among the influencers accused of promoting $KIDS which collapsed ~90% after launch.",
+    "deletedPromo": true,
+    "source": [
+      "https://kotaku.com/faze-clan-members-skewered-by-fans-following-huge-crypt-1847188685",
+      "https://www.aol.com/news/faze-clan-members-suspended-following-214138085.html"
+    ],
+    "description": "Model and influencer Sommer Ray promoted the Save the Kids charity token alongside FaZe Clan members and RiceGum ahead of its June 2021 launch. When the token collapsed and the scheme was exposed, the influencers involved deleted their promotional posts. She was accused alongside the others of participating in the pump; no on-chain analysis of her own selling has been published.",
+    "outcome": null
+  },
+  {
+    "date": 1623542400,
+    "name": "Kim Kardashian",
+    "handle": "KimKardashian",
+    "role": "Reality TV/Model",
+    "scamType": "Undisclosed Promo",
+    "token": "EMAX",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": 250000,
+    "amountDesc": "$250K Instagram promo fee, undisclosed. SEC settlement totaled $1.26M ($260K disgorgement plus interest and a $1M penalty). EMAX collapsed more than 97% from its promo-era highs and buyers filed a class action against her and other promoters.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.sec.gov/newsroom/press-releases/2022-183",
+      "https://www.coindesk.com/business/2022/10/03/us-sec-charges-kim-kardashian-for-promoting-ethereummax",
+      "https://www.cnbc.com/2022/10/03/kim-kardashian-settles-sec-charges-instagram-crypto-promotion.html"
+    ],
+    "description": "On June 13, 2021 Kardashian pushed EthereumMax's EMAX token to her over 200 million Instagram followers ('ARE YOU GUYS INTO CRYPTO????') without disclosing she was paid $250K for the post. The SEC settled anti-touting charges in October 2022 for $1.26M, with a three-year ban on promoting crypto asset securities; she did not admit wrongdoing. A related investor class action against her and other EMAX promoters was largely dismissed.",
+    "outcome": "SEC settlement $1.26M + 3-year crypto promo ban (Oct 2022)"
+  },
+  {
+    "date": 1624838400,
+    "name": "Logan Paul",
+    "handle": "LoganPaul",
+    "role": "Internet Celebrity",
+    "scamType": "Undisclosed Promo",
+    "token": "DINK",
+    "chain": [
+      "BSC"
+    ],
+    "amount": null,
+    "amountDesc": "Paul reportedly received a very large pre-launch allocation (reported at ~120 trillion tokens); at launch 80% of supply sat in the top 100 wallets per Coffeezilla; token peaked on launch day and collapsed to near zero.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.dexerto.com/entertainment/logan-paul-exposed-dinkdoink-cryptocurrency-scam-1610333/",
+      "https://www.nasdaq.com/articles/dink-doink-crypto-scandal-12-things-to-know-about-logan-pauls-controversial-ties-to-meme"
+    ],
+    "description": "Paul promoted the Dink Doink memecoin to his audience in late June 2021 as \"the dumbest, most ridiculous shitcoin... and that's why I'm all in\" without disclosing that, per Coffeezilla's reporting and the project CEO's own account, he helped create the project (designing the character himself) and received a significant share of the token supply pre-launch. The coin peaked on launch day and entered a terminal decline.",
+    "outcome": null
+  },
+  {
+    "date": 1626307200,
+    "name": "Ice Poseidon (Paul Denino)",
+    "handle": "REALIcePoseidon",
+    "role": "Streamer/Gamer",
+    "scamType": "Insider Dump",
+    "token": "CXCOIN",
+    "chain": [
+      "BSC"
+    ],
+    "amount": 500000,
+    "amountDesc": "Pulled ~$300K from the CxCoin liquidity pool within weeks of the July 2021 launch; roughly $500K-$750K total taken across liquidity, presale and marketing wallets per Coffeezilla's analysis. He returned only a fraction after public pressure.",
+    "deletedPromo": false,
+    "source": [
+      "https://beincrypto.com/youtuber-ice-poseidon-aka-paul-denino-admits-to-500000-cxcoin-rugpull/",
+      "https://www.bitdegree.org/crypto/news/youtuber-ice-poseidon-cx-coin-rug-pull-exposed"
+    ],
+    "description": "Denino launched CxCoin in July 2021, pitching it to his audience as a way to fund content creators, then drained roughly $300K from the liquidity pool weeks later, with total extraction across team wallets estimated around $500K-$750K by Coffeezilla. Confronted on camera in January 2022, he admitted taking the money and refused to return it, saying \"I could give the money back... but I'm going to look out for myself and not do that.\"",
+    "outcome": "Admitted on camera (Jan 2022); publicly refused full refunds; no charges"
+  },
+  {
+    "date": 1627776000,
+    "name": "Floyd Mayweather",
+    "handle": "FloydMayweather",
+    "role": "Athlete",
+    "scamType": "Abandoned Project",
+    "token": "Floyd's World NFT",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": null,
+    "amountDesc": "Mint of 11,111 NFTs at 0.15 ETH in mid-2021; reports put mint proceeds at 1,000+ ETH (~$3M). Floor collapsed to near zero after abandonment.",
+    "deletedPromo": true,
+    "source": [
+      "https://coinjournal.net/news/floyd-mayweather-sums-up-everything-that-is-wrong-with-crypto/",
+      "https://beincrypto.com/floyd-mayweather-returns-to-bruising-world-of-crypto-and-nfts/"
+    ],
+    "description": "Mayweather's own 'Floyd's World' collection sold 11,111 NFTs at 0.15 ETH in 2021, with reports putting the mint take at over 1,000 ETH. Per CoinJournal, he then completely abandoned the project and deleted all tweets and public social media posts promoting it, with the NFTs' value collapsing. The abandonment surfaced only when he moved on to promoting his next mint, the Mayweverse.",
+    "outcome": null
+  },
+  {
+    "date": 1630454400,
+    "name": "Logan Paul",
+    "handle": "LoganPaul",
+    "role": "Internet Celebrity",
+    "scamType": "Abandoned Project",
+    "token": "CryptoZoo",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": null,
+    "amountDesc": "Millions raised from egg NFT sales in Sept 2021; Paul announced a $2.3M NFT buyback in Jan 2024 (~$1.9M disbursed by Aug 2025); class-action plaintiffs claimed individual losses of $100 to $350,000.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.nbcnews.com/tech/logan-paul-announces-buy-back-nfts-cryptozoo-rcna132390",
+      "https://www.tubefilter.com/2025/11/06/logan-paul-cryptozoo-lawsuit-dismissed/",
+      "https://www.theblock.co/amp/post/199178/logan-paul-hits-back-at-claims-that-his-cryptozoo-nft-game-is-a-scam"
+    ],
+    "description": "Paul sold CryptoZoo egg NFTs and $ZOO tokens for a blockchain game that was never delivered. Coffeezilla's Dec 2022 three-part investigation found the game non-functional despite millions raised, marketing aimed partly at children, and team members buying tokens before the public launch. Paul announced a $2.3M buyback of base egg/animal NFTs in Jan 2024 that required sellers to waive legal claims; a Texas federal judge dismissed the investor class action on Oct 29, 2025, ruling his statements were puffery rather than fraud.",
+    "outcome": "Class action dismissed Oct 2025 (statements ruled puffery); $2.3M voluntary NFT buyback; Paul dropped his defamation suit against Coffeezilla"
+  },
+  {
+    "date": 1638316800,
+    "name": "Antonio Brown",
+    "handle": "AB84",
+    "role": "Athlete",
+    "scamType": "Undisclosed Promo",
+    "token": "Vault of Gems",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": null,
+    "amountDesc": "The Vault of Gems team abandoned the project with over $1M weeks after its late-2021 launch, part of $22M+ across the Hay-Mayo rug pulls charged by the DOJ; Brown's promo fee was undisclosed.",
+    "deletedPromo": false,
+    "source": [
+      "https://x.com/zachxbt/status/1643600932272238592",
+      "https://www.justice.gov/archives/opa/pr/two-california-men-charged-largest-nft-scheme-prosecuted-date",
+      "https://decrypt.co/298427/ethereum-solana-nft-scammers-charged-22m-rug-pulls"
+    ],
+    "description": "Per ZachXBT's investigation into celebrity-promo middleman 'Raichu', Brown was paid to promote the Vault of Gems NFT project, billed as the 'first NFT pegged to a hard asset'; weeks after its late-2021 launch the team disappeared with over $1M. The DOJ later charged organizers Gabriel Hay and Gavin Mayo over $22M in rug pulls including Vault of Gems, the largest NFT scheme it had prosecuted. Brown separately posted a paid NFT promo with the 'Twitter Caption' instruction still pasted in, showing his crypto shills were undisclosed ads.",
+    "outcome": "VoG organizers criminally charged by DOJ (Dec 2024); no action against Brown"
+  },
+  {
+    "date": 1640736000,
+    "name": "Madison Cawthorn",
+    "handle": "RepCawthorn",
+    "role": "Politician",
+    "scamType": "Undisclosed Promo",
+    "token": "LGBcoin",
+    "chain": [],
+    "amount": 14237,
+    "amountDesc": "House Ethics Committee ordered $14,237 in improper gains donated to charity plus $1,000 in late filing fees; he had bought ~180 billion LGB tokens at a below-market price for $150,000 in December 2021.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.washingtonpost.com/politics/2022/12/06/madison-cawthorn-cryptocurrency-house-ethics-fine/",
+      "https://www.nbcnews.com/politics/congress/madison-cawthorn-fined-improperly-promoting-cryptocurrency-rcna60424",
+      "https://www.forbes.com/sites/zacheverson/2022/12/06/madison-cawthorn-fined-15000-for-plugging-lets-go-brandon-cryptocurrency/",
+      "https://decrypt.co/116624"
+    ],
+    "description": "Sitting US congressman Madison Cawthorn bought ~180 billion LGBcoin ('Let's Go Brandon' memecoin) at a below-market valuation for $150,000 in December 2021, then promoted the token to his following days before its NASCAR sponsorship announcement without disclosing his stake. After a seven-month investigation, the House Ethics Committee found substantial evidence that he promoted a cryptocurrency in which he had an undisclosed financial interest and that he did not disclose his purchases or sales until the committee began investigating. He was ordered to donate $14,237 in improper gains to charity and pay $1,000 in late filing fees.",
+    "outcome": "House Ethics Committee (Dec 2022) ordered $14,237 donated to charity and $1,000 in late filing fees"
+  },
+  {
+    "date": 1640995200,
+    "name": "Serpent (SerpentAU)",
+    "handle": "SerpentAU",
+    "role": "Streamer/Gamer",
+    "scamType": "Abandoned Project",
+    "token": "DAPE",
+    "chain": [],
+    "amount": null,
+    "amountDesc": "No reliable per-project estimate; ZachXBT's Nov 2024 investigation attributed ~$3.5M to Serpent's overall scam spree, most of it via hacked celebrity accounts (tracked separately, not in this record).",
+    "deletedPromo": true,
+    "source": [
+      "https://bitcoinist.com/crypto-sleuth-accuses-pro-fortnite-player-of-stealing-3-5-million-in-memecoin-scams/",
+      "https://cybernews.com/cybercrime/fortnite-player-memecoin-scam/"
+    ],
+    "description": "Per ZachXBT's November 2024 investigation, former professional Fortnite player Serpent co-founded the DAPE NFT project in 2022, which was rug-pulled on its buyers. The same investigation tied him to a separate spree of memecoin scams run through hacked celebrity accounts and heavy gambling of proceeds; after being named, Serpent deleted his previous posts and denied involvement.",
+    "outcome": null
+  },
+  {
+    "date": 1641168000,
+    "name": "Ben Armstrong (BitBoy Crypto)",
+    "handle": "Bitboy_Crypto",
+    "role": "Crypto KOL",
+    "scamType": "Undisclosed Promo",
+    "token": null,
+    "chain": [],
+    "amount": null,
+    "amountDesc": "Leaked rate flyer obtained by ZachXBT showed Armstrong charged $2,500-$40,000 per promotion; promoted projects that collapsed include DISTX (~$1.2M investor losses) and MYX/LOCK (over $1M in estimated losses); his total promo take is undocumented.",
+    "deletedPromo": true,
+    "source": [
+      "https://twitter.com/zachxbt/status/1478082010807742468",
+      "https://threadreaderapp.com/thread/1478082010807742468.html",
+      "https://crypto.news/the-rise-and-fall-of-bitboy-crypto-ben-armstrong/"
+    ],
+    "description": "The largest crypto YouTuber of the 2021 cycle, documented by ZachXBT (Jan 2022 thread) running paid promotions for at least seven projects that rug-pulled or exit-scammed, including MYX and DISTX -- a coin he titled 'my most trusted coin' with zero sponsorship disclosure before it exit-scammed. ZachXBT published Armstrong's promo rate flyer ($2,500-$40,000 per placement) obtained by posing as a project seeking promotion, and showed videos and tweets were deleted or retitled after each collapse. Armstrong has denied wrongdoing and sued a critic who called him a 'dirtbag'; no regulator has charged him over the promos.",
+    "outcome": null
+  },
+  {
+    "date": 1641427200,
+    "name": "Floyd Mayweather",
+    "handle": "FloydMayweather",
+    "role": "Athlete",
+    "scamType": "Undisclosed Promo",
+    "token": "Bored Bunny",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": null,
+    "amountDesc": "Buyers lost ~$21M across the Bored Bunny mints; founders reportedly offered $500k-$750k for a 10-second celebrity promo video. Mayweather's exact fee undisclosed.",
+    "deletedPromo": false,
+    "source": [
+      "https://dailycoin.com/influencers-and-celebrities-promoting-nft-scams-the-bored-bunny-case/",
+      "https://www.bitdegree.org/crypto/news/bored-bunny-nft-creators-snatch-21-million-from-slow-rug-pull",
+      "https://defector.com/floyd-mayweather-is-also-the-floyd-mayweather-of-shady-crypto-shit"
+    ],
+    "description": "Mayweather was a headline paid promoter of the January 2022 Bored Bunny NFT mint alongside DJ Khaled, Jake Paul and David Dobrik, with the founders reportedly offering $500k-$750k for a 10-second promo video and promos posted without ad disclosure. The project slow-rugged: the team went quiet, promised metaverse utility never materialized, and buyers across its collections lost an estimated $21M. ZachXBT publicly warned against buying anything Mayweather promoted given his run of rugged projects.",
+    "outcome": null
+  },
+  {
+    "date": 1643673600,
+    "name": "Floyd Mayweather",
+    "handle": "FloydMayweather",
+    "role": "Athlete",
+    "scamType": "Abandoned Project",
+    "token": "Mayweverse",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": 200000,
+    "amountDesc": "~$200k in mint proceeds reportedly withdrawn by the anonymous team behind the Mayweather-fronted 5,000-NFT mint (0.3 ETH each); holders lost everything.",
+    "deletedPromo": false,
+    "source": [
+      "https://coinjournal.net/news/floyd-mayweather-sums-up-everything-that-is-wrong-with-crypto/",
+      "https://beincrypto.com/floyd-mayweather-returns-to-bruising-world-of-crypto-and-nfts/",
+      "https://www.essentiallysports.com/boxing-news-this-is-another-celebrity-cash-grab-floyd-mayweathers-mayweverse-nft-collection-criticized-by-fans/"
+    ],
+    "description": "In early 2022 Mayweather fronted the 'Mayweverse', a 5,000-NFT mint priced at 0.3 ETH that fans immediately called 'another celebrity cash grab'. Per CoinJournal and BeInCrypto, the project was a rug: the anonymous team behind it reportedly withdrew roughly $200k in proceeds and vanished, leaving holders with worthless NFTs. It followed the identical playbook of his abandoned Floyd's World mint a few months earlier.",
+    "outcome": null
+  },
+  {
+    "date": 1643760000,
+    "name": "Gunna",
+    "handle": "1GunnaGunna",
+    "role": "Musician",
+    "scamType": "Deleted Promo",
+    "token": "Pushin P (PETH)",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": null,
+    "amountDesc": "Token collapsed within 8 hours of the promo; Gunna's fee not documented",
+    "deletedPromo": true,
+    "source": [
+      "https://x.com/zachxbt/status/1488802851577081860",
+      "https://www.vice.com/en/article/meet-the-blockchain-detectives-who-track-cryptos-hackers-and-scammers/",
+      "https://cryptodaily.co.uk/2022/02/rapper-gunna-denies-involvement-in-pushin-peth-rug-pull"
+    ],
+    "description": "In February 2022 Gunna promoted the 'Pushin P' (PETH) token, which collapsed within eight hours ('Nice scam @1GunnaGunna didn't even last 8 hrs', per ZachXBT); the promo tweet was deleted and Gunna blamed a compromised account. ZachXBT published private messages indicating the promotion was planned in advance, contradicting the hacked-account defense, and revisited the receipts in August 2026 amid renewed criticism of rappers extracting via memecoins.",
+    "outcome": null
+  },
+  {
+    "date": 1645056000,
+    "name": "Lil Yachty",
+    "handle": "lilyachty",
+    "role": "Musician",
+    "scamType": "Undisclosed Promo",
+    "token": "SafeMoon",
+    "chain": [
+      "BSC"
+    ],
+    "amount": null,
+    "amountDesc": "Promo fees not disclosed; suit alleges insiders profited while SafeMoon collapsed from its 2021 peak",
+    "deletedPromo": false,
+    "source": [
+      "https://cointelegraph.com/news/safemoon-pump-and-dump-lawsuit-targets-jake-paul-soulja-boy-and-others",
+      "https://www.classaction.org/blog/jake-paul-nick-carter-soulja-boy-lil-yachty-facing-pump-and-dump-class-action-over-safemoon-tokens",
+      "https://www.bet.com/article/70b0vf/lil-yachty-soulja-boy-crypto-currency-alleged-scheme"
+    ],
+    "description": "The February 2022 SafeMoon class action names Lil Yachty among celebrities who allegedly promoted SafeMoon to investors in 2021 without disclosing compensation while insiders controlled and sold into the tradeable supply. SafeMoon's executives were separately charged with fraud by the SEC and DOJ in November 2023.",
+    "outcome": "Class action (Combs v. SafeMoon, filed Feb 2022); SafeMoon executives separately charged by SEC/DOJ in 2023"
+  },
+  {
+    "date": 1645056000,
+    "name": "Nick Carter",
+    "handle": "nickcarter",
+    "role": "Musician",
+    "scamType": "Undisclosed Promo",
+    "token": "SafeMoon",
+    "chain": [
+      "BSC"
+    ],
+    "amount": null,
+    "amountDesc": "Promo fees not disclosed; suit alleges insiders profited while SafeMoon collapsed from its 2021 peak",
+    "deletedPromo": false,
+    "source": [
+      "https://www.classaction.org/blog/jake-paul-nick-carter-soulja-boy-lil-yachty-facing-pump-and-dump-class-action-over-safemoon-tokens",
+      "https://cointelegraph.com/news/safemoon-pump-and-dump-lawsuit-targets-jake-paul-soulja-boy-and-others"
+    ],
+    "description": "The February 2022 SafeMoon class action names Backstreet Boys singer Nick Carter among celebrities who allegedly promoted SafeMoon to investors in 2021 without disclosing compensation while insiders controlled and sold into the tradeable supply. SafeMoon's executives were separately charged with fraud by the SEC and DOJ in November 2023.",
+    "outcome": "Class action (Combs v. SafeMoon, filed Feb 2022); SafeMoon executives separately charged by SEC/DOJ in 2023"
+  },
+  {
+    "date": 1645056000,
+    "name": "Soulja Boy",
+    "handle": "souljaboy",
+    "role": "Musician",
+    "scamType": "Undisclosed Promo",
+    "token": "SafeMoon",
+    "chain": [
+      "BSC"
+    ],
+    "amount": null,
+    "amountDesc": "Promo fees not disclosed; suit alleges insiders profited while SafeMoon collapsed ~80%+ from its 2021 peak",
+    "deletedPromo": false,
+    "source": [
+      "https://cointelegraph.com/news/safemoon-pump-and-dump-lawsuit-targets-jake-paul-soulja-boy-and-others",
+      "https://www.classaction.org/blog/jake-paul-nick-carter-soulja-boy-lil-yachty-facing-pump-and-dump-class-action-over-safemoon-tokens",
+      "https://www.bet.com/article/70b0vf/lil-yachty-soulja-boy-crypto-currency-alleged-scheme"
+    ],
+    "description": "A February 2022 class action (Combs v. SafeMoon LLC) alleges Soulja Boy was recruited to misleadingly promote SafeMoon to investors throughout 2021 while failing to disclose his compensation and the insiders' control of tradeable supply, in what the suit calls a pump-and-dump. SafeMoon's executives were separately charged with fraud by the SEC and DOJ in November 2023.",
+    "outcome": "Class action (Combs v. SafeMoon, filed Feb 2022); SafeMoon executives separately charged by SEC/DOJ in 2023"
+  },
+  {
+    "date": 1645660800,
+    "name": "De'Aaron Fox",
+    "handle": "swipathefox",
+    "role": "Athlete",
+    "scamType": "Abandoned Project",
+    "token": "Swipa The Fox NFT",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": 1500000,
+    "amountDesc": "~$1.5M in mint proceeds from ~3,000 holders kept when the project was disbanded roughly six weeks after its Jan 15, 2022 launch, per Forbes.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.forbes.com/sites/kamranrosen/2022/02/24/sacramento-kings-star-deaaron-fox-ditches-ditches-nft-project-after-pocketing-15-million/",
+      "https://ublawsportsforum.com/2022/03/17/deaaron-fox-swipes-money-from-fans-in-an-nft-rug-pull/"
+    ],
+    "description": "The Sacramento Kings guard launched the 3,000-holder 'Swipa The Fox' NFT collection on January 15, 2022, promising all-star game tickets, a metaverse basketball court and a scholarship to his alma mater. Barely six weeks later he announced in Discord he was disbanding the project as 'ill timed', keeping roughly $1.5M in mint proceeds per Forbes, and offered only signed jerseys to larger holders as compensation. Buyers widely described it as a rug pull; no refunds were documented.",
+    "outcome": null
+  },
+  {
+    "date": 1646092800,
+    "name": "KSI",
+    "handle": "KSI",
+    "role": "Internet Celebrity",
+    "scamType": "Insider Dump",
+    "token": "XCAD",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": 850000,
+    "amountDesc": "Sold ~$850K of XCAD in the days after tweeting \"my $XCAD bag is looking juicy again. #HodlGang\" in March 2022, per ZachXBT; ZachXBT also documented ~$350K of ERN sales after similar bullish posts. KSI says he lost ~$2M on crypto overall.",
+    "deletedPromo": false,
+    "source": [
+      "https://esports-news.co.uk/2024/02/15/ksi-responds-crypto-pump-and-dump/",
+      "https://cryptonews.com/news/ksi-faces-pump-and-dump-allegations-after-reopening-crypto-focused-x-account/",
+      "https://dailycoin.com/ksi-denies-crypto-pump-and-dump-i-was-just-bad-at-crypto/"
+    ],
+    "description": "Per ZachXBT's February 2024 receipts, KSI told followers to hold XCAD in March 2022 and then sold roughly $850K worth within days, part of a pattern across XCAD, ERN and other tokens he held allocations in. KSI admitted the sales but denied malicious intent, saying he was \"just s*** at crypto\" and sold to buy Luna, losing money overall; Coffeezilla publicly doubted the explanation, noting the behavior matched textbook pump-and-dump tactics.",
+    "outcome": null
+  },
+  {
+    "date": 1651363200,
+    "name": "Shaquille O'Neal",
+    "handle": "SHAQ",
+    "role": "Athlete",
+    "scamType": "Abandoned Project",
+    "token": "Astrals",
+    "chain": [
+      "Solana"
+    ],
+    "amount": null,
+    "amountDesc": "Astrals sold 10,000 Solana NFTs plus GLXY tokens from May 2022; class action settled with an up-to-$11M fund (including $2.9M attorney fees) for buyers from May 2022 to Jan 2024.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.axios.com/2024/11/19/haq-11-million-settlement-nft-suit-astrals",
+      "https://cointelegraph.com/news/shaquille-o-neal-gets-ok-11-million-astrals-nft-settlement",
+      "https://www.dlnews.com/articles/regulation/shaquille-oneal-and-astral-team-to-settle-nfts-lawsuit-for-11m/"
+    ],
+    "description": "O'Neal founded and was the face of Astrals, a 10,000-piece Solana NFT project with a GLXY token, a DAO and promised metaverse utility, using his celebrity to drive sales. The class action alleged the NFTs and tokens were unregistered securities and that Shaq abandoned the project after FTX's November 2022 collapse, cratering their value; a federal judge found he could be treated as a statutory 'seller'. He agreed to an $11M settlement, court-approved in 2025, covering Astrals NFT and GLXY buyers from May 2022 through January 2024.",
+    "outcome": "Class action settled for $11M (court-approved 2025)"
+  },
+  {
+    "date": 1664409600,
+    "name": "Lark Davis",
+    "handle": "TheCryptoLark",
+    "role": "Crypto KOL",
+    "scamType": "Insider Dump",
+    "token": null,
+    "chain": [],
+    "amount": 1200000,
+    "amountDesc": "Per ZachXBT's wallet analysis, over $1.2M in profits across eight low-cap projects he promoted then sold (UMB, SHOPX, BLES, PMON, XED, APY among them), including ~$136k dumping 62,500 UMB within hours of tweeting its launch.",
+    "deletedPromo": false,
+    "source": [
+      "https://twitter.com/zachxbt/status/1575494380072611847",
+      "https://cointelegraph.com/news/i-ve-done-nothing-wrong-lark-davis-denies-pump-and-dump-allegations",
+      "https://cryptoslate.com/zachxbt-alleges-crypto-influencer-lark-davis-made-over-1m-dumping-crypto-projects/"
+    ],
+    "description": "New Zealand crypto YouTuber with 1M+ followers. Per ZachXBT's September 2022 17-part wallet investigation, Davis's wallet received allocations from eight low-cap projects, promoted them to his audience via tweets and videos, then sold shortly after -- netting over $1.2M, including dumping all 62,500 UMB received for ~$136,000 within hours of promoting its launch. Davis denied wrongdoing, saying he paid for the tokens, disclosed being an investor, and that 'there is nothing wrong with selling'. No regulatory action has followed.",
+    "outcome": null
+  },
+  {
+    "date": 1666137600,
+    "name": "Ronaldinho",
+    "handle": "10Ronaldinho",
+    "role": "Athlete",
+    "scamType": "Undisclosed Promo",
+    "token": "World Cup Inu (WCI)",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": null,
+    "amountDesc": "WCI's deployer had already cashed out $300k+ via a 4% swap tax when Ronaldinho promoted it; the token collapsed soon after. His promo fee was undisclosed.",
+    "deletedPromo": false,
+    "source": [
+      "https://cryptoslate.com/fatman-sounds-the-alarm-on-ronaldinho-backed-world-cup-inu-crypto-token/",
+      "https://beincrypto.com/world-cup-inu-token-scam-accusations-weeks-after-launch/",
+      "https://www.cryptotimes.io/2022/10/20/ronaldinho-draws-criticism-for-promoting-world-cup-inu-token/"
+    ],
+    "description": "Ahead of the 2022 World Cup, Ronaldinho tweeted praise for World Cup Inu, claiming to be impressed by its 'DeFi innovation', with no ad disclosure. On-chain analysts including FatMan flagged that the deployer was charging a 4% swap tax on trades, had already cashed out over $300k, and held contract functions to raise the tax and pause trading; the token collapsed weeks after launch. ZachXBT publicly called out the promo as one of a pattern of Ronaldinho shills that also included Atari Chain, Lord Society NFTs, WATER and Baby Doge.",
+    "outcome": null
+  },
+  {
+    "date": 1679443200,
+    "name": "Akon",
+    "handle": "Akon",
+    "role": "Musician",
+    "scamType": "Undisclosed Promo",
+    "token": "TRX/BTT",
+    "chain": [
+      "Tron"
+    ],
+    "amount": null,
+    "amountDesc": "Part of $400k+ collective disgorgement, interest and penalties paid by the six settling celebrities",
+    "deletedPromo": false,
+    "source": [
+      "https://www.sec.gov/newsroom/press-releases/2023-59",
+      "https://www.cnbc.com/2023/03/22/sec-hits-jake-paul-lindsey-lohan-justin-sun-with-crypto-violations.html"
+    ],
+    "description": "The SEC charged Akon (Aliaune Thiam) in March 2023 for touting Justin Sun's TRX/BTT tokens without disclosing he was paid. He settled without admitting or denying the findings as part of the six celebrities' collective $400k+ payment.",
+    "outcome": "SEC settlement (March 2023), part of $400k+ collective payment"
+  },
+  {
+    "date": 1679443200,
+    "name": "Austin Mahone",
+    "handle": "AustinMahone",
+    "role": "Musician",
+    "scamType": "Undisclosed Promo",
+    "token": "TRX/BTT",
+    "chain": [
+      "Tron"
+    ],
+    "amount": null,
+    "amountDesc": "Promo fees from Justin Sun not publicly itemized; the six settling celebrities collectively paid $400k+",
+    "deletedPromo": false,
+    "source": [
+      "https://www.sec.gov/newsroom/press-releases/2023-59",
+      "https://www.theblock.co/post/226264/sec-justin-sun"
+    ],
+    "description": "The SEC charged singer Austin Mahone in March 2023 for touting Justin Sun's TRX/BTT tokens without disclosing he was paid, part of Sun's alleged celebrity-touting scheme. Alongside Soulja Boy, he was one of only two charged celebrities who did not settle.",
+    "outcome": "SEC charges; did not settle; litigation ongoing"
+  },
+  {
+    "date": 1679443200,
+    "name": "Lil Yachty",
+    "handle": "lilyachty",
+    "role": "Musician",
+    "scamType": "Undisclosed Promo",
+    "token": "TRX/BTT",
+    "chain": [
+      "Tron"
+    ],
+    "amount": null,
+    "amountDesc": "Part of $400k+ collective disgorgement, interest and penalties paid by the six settling celebrities",
+    "deletedPromo": false,
+    "source": [
+      "https://www.sec.gov/newsroom/press-releases/2023-59",
+      "https://www.cnbc.com/2023/03/22/sec-hits-jake-paul-lindsey-lohan-justin-sun-with-crypto-violations.html",
+      "https://www.billboard.com/pro/lindsay-lohan-lil-yachty-soulja-boy-charged-crypto"
+    ],
+    "description": "The SEC charged Lil Yachty (Miles Parks McCollum) in March 2023 for touting Justin Sun's TRX/BTT tokens without disclosing he was paid. He settled without admitting or denying the findings, disgorging his fee as part of the six celebrities' collective $400k+ payment.",
+    "outcome": "SEC settlement (March 2023), part of $400k+ collective payment"
+  },
+  {
+    "date": 1679443200,
+    "name": "Ne-Yo",
+    "handle": "NeYoCompound",
+    "role": "Musician",
+    "scamType": "Undisclosed Promo",
+    "token": "TRX/BTT",
+    "chain": [
+      "Tron"
+    ],
+    "amount": null,
+    "amountDesc": "Part of $400k+ collective disgorgement, interest and penalties paid by the six settling celebrities",
+    "deletedPromo": false,
+    "source": [
+      "https://www.sec.gov/newsroom/press-releases/2023-59",
+      "https://www.cnbc.com/2023/03/22/sec-hits-jake-paul-lindsey-lohan-justin-sun-with-crypto-violations.html"
+    ],
+    "description": "The SEC charged Ne-Yo (Shaffer Smith) in March 2023 for touting Justin Sun's TRX/BTT tokens without disclosing payment. He settled without admitting or denying the findings as part of the six celebrities' collective $400k+ in disgorgement, interest and penalties.",
+    "outcome": "SEC settlement (March 2023), part of $400k+ collective payment"
+  },
+  {
+    "date": 1679443200,
+    "name": "Soulja Boy",
+    "handle": "souljaboy",
+    "role": "Musician",
+    "scamType": "Undisclosed Promo",
+    "token": "TRX/BTT",
+    "chain": [
+      "Tron"
+    ],
+    "amount": null,
+    "amountDesc": "Promo fees from Justin Sun not publicly itemized; six other charged celebrities collectively paid $400k+ to settle",
+    "deletedPromo": false,
+    "source": [
+      "https://www.sec.gov/newsroom/press-releases/2023-59",
+      "https://www.cnbc.com/2023/03/22/sec-hits-jake-paul-lindsey-lohan-justin-sun-with-crypto-violations.html",
+      "https://www.theblock.co/post/226264/sec-justin-sun"
+    ],
+    "description": "The SEC charged Soulja Boy (DeAndre Cortez Way) in March 2023 for touting Justin Sun's TRX and/or BTT tokens on social media without disclosing he was paid, as part of Sun's alleged scheme to pay celebrities for promotion while hiding the compensation. He was one of only two of the eight charged celebrities who did not settle.",
+    "outcome": "SEC charges; did not settle; litigation ongoing"
+  },
+  {
+    "date": 1681862400,
+    "name": "Soulja Boy",
+    "handle": "souljaboy",
+    "role": "Musician",
+    "scamType": "Undisclosed Promo",
+    "token": null,
+    "chain": [],
+    "amount": 730000,
+    "amountDesc": "~$730k earned from 2021 promos at $10k–12k per post per leaked pricing details; spans 73 token promos and 16 NFT launches, many of which rugged or were abandoned (RapDoge, Orion, The Life Token, Flokinomics)",
+    "deletedPromo": false,
+    "source": [
+      "https://www.coindesk.com/web3/2023/04/19/soulja-boy-has-reportedly-been-cranking-out-promotions-for-scam-nft-projects",
+      "https://cryptonews.com/news/base-co-founder-draws-fire-after-backing-soulja-boys-token-despite-repeated-scam-claims/",
+      "https://www.cryptopolitan.com/soulja-boy-says-sorry-promoting-crypto-scams/"
+    ],
+    "description": "Per ZachXBT's April 2023 investigation, Soulja Boy pushed 73 crypto promotions and 16 NFT launches between March 2021 and 2023, many of which rug-pulled or were abandoned within days of his posts, including RapDoge, Orion, The Life Token and Flokinomics, reportedly earning ~$730k from 2021 promos at $10k–12k per post, largely undisclosed. He later apologized, saying he took responsibility for not doing due diligence. His SafeMoon and SaferMars promos are recorded separately.",
+    "outcome": null
+  },
+  {
+    "date": 1684368000,
+    "name": "ben.eth",
+    "handle": "eth_ben",
+    "role": "Crypto KOL",
+    "scamType": "Insider Dump",
+    "token": "PSYOP",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": 7000000,
+    "amountDesc": "PSYOP presale reportedly took in ~$7M of ETH in its first 72 hours (with claims of up to 10,000 ETH raised); demand letter from Loevy & Loevy threatened treble damages of up to $21M on behalf of presale buyers.",
+    "deletedPromo": false,
+    "source": [
+      "https://cointelegraph.com/news/ben-eth-psyop-memetokens-face-legal-sec-scrutiny",
+      "https://crypto.news/psyop-creator-threatened-with-a-lawsuit-urged-to-refund-eth/",
+      "https://nftnow.com/features/7-million-in-72-hours-inside-ben-eths-controversial-memecoin-empire/"
+    ],
+    "description": "Pseudonymous X influencer who rode the May 2023 BEN memecoin wave into a series of send-ETH-to-my-wallet presales. His PSYOP presale collected roughly $7M of ETH in 72 hours on promises of multi-fold returns; attorney Mike Kanovitz of Loevy & Loevy sent a demand letter alleging he intentionally misled investors, coordinated influencers to spread misinformation, and structured liquidity so tokens 'trickled out' after the presale, threatening a class action for up to $21M unless buyers were refunded. ZachXBT also published evidence he said showed the presale was misleading. His follow-up LOYAL launch drew similar complaints from buyers.",
+    "outcome": "Class action threatened with up to $21M in damages (May 2023); no filed case documented"
+  },
+  {
+    "date": 1709251200,
+    "name": "Serpent (SerpentAU)",
+    "handle": "SerpentAU",
+    "role": "Streamer/Gamer",
+    "scamType": "Abandoned Project",
+    "token": "ERROR",
+    "chain": [],
+    "amount": null,
+    "amountDesc": "No reliable per-project estimate; the ERROR rug contributed to the ~$3.5M total ZachXBT attributed to Serpent's schemes.",
+    "deletedPromo": true,
+    "source": [
+      "https://bitcoinist.com/crypto-sleuth-accuses-pro-fortnite-player-of-stealing-3-5-million-in-memecoin-scams/",
+      "https://cybernews.com/cybercrime/fortnite-player-memecoin-scam/"
+    ],
+    "description": "Per ZachXBT's investigation, Serpent launched a project called ERROR in March 2024 under his own name which was subsequently rug-pulled, leading to his ban from X. After ZachXBT published his findings in November 2024, Serpent deleted his post history and posted a denial.",
+    "outcome": "Banned from X after the ERROR rug"
+  },
+  {
+    "date": 1716681600,
+    "name": "Caitlyn Jenner",
+    "handle": "Caitlyn_Jenner",
+    "role": "Reality TV/Model",
+    "scamType": "Insider Dump",
+    "token": "JENNER",
+    "chain": [
+      "Solana",
+      "Ethereum"
+    ],
+    "amount": null,
+    "amountDesc": "Her side's take is undocumented; plaintiffs allege an undisclosed 3% transaction tax enriched her. JENNER peaked near a $42M market cap and collapsed more than 98% to under $650K after launch partner Sahil Arora allegedly dumped his holdings.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.coindesk.com/markets/2024/05/27/caitlyn-jenner-meme-coin-sows-confusion-as-observers-question-its-provenance",
+      "https://www.theblock.co/amp/news/markets/2024-05-27-caitlyn-jenner-pump-fun-296810",
+      "https://www.ccn.com/news/crypto/jenner-memecoin-investors-sue-caitlyn-jenner-misleading-statements/",
+      "https://cointelegraph.com/news/caitlyn-jenner-memecoin-buyers-try-again-judge-tosses-suit"
+    ],
+    "description": "Jenner launched the JENNER memecoin on Solana via Pump.fun over Memorial Day weekend 2024 with serial launch scammer Sahil Arora, kept hyping it ('expect to hit $50m market cap in the first 24 hours') and relaunched it on Ethereum after Arora allegedly dumped on holders. A November 2024 class action accused her of misleading statements, unregistered securities sales and an undisclosed 3% transaction tax; a federal judge tossed that suit in April 2026, ruling the memecoin was not a security, and a new investor class action followed in May 2026.",
+    "outcome": "First class action dismissed April 2026 (token ruled not a security); new class action pending (May 2026)"
+  },
+  {
+    "date": 1716681600,
+    "name": "Sahil Arora",
+    "handle": null,
+    "role": "Other",
+    "scamType": "Insider Dump",
+    "token": null,
+    "chain": [
+      "Solana"
+    ],
+    "amount": 2500000,
+    "amountDesc": "ZachXBT estimated Arora made 'likely only $2-3M' (under $5M at most) from the 2024 celebrity-launch meta, correcting Bubblemaps' ~$26M claim; individual dumps include a reported ~$180K profit on Jason Derulo's JASON token per Bubblemaps.",
+    "deletedPromo": false,
+    "source": [
+      "https://x.com/zachxbt/status/1823760586997686388",
+      "https://cointelegraph.com/news/memecoin-mastermind-sahil-likely-made-3m-from-celeb-meta-zachxbt",
+      "https://www.theblock.co/post/298428/x-bans-alleged-celebrity-memecoin-scammer-sahil-arora",
+      "https://thedefiant.io/news/markets/controversial-memecoin-creator-rumored-to-rake-in-usd3m-dumping-celebrity-tokens"
+    ],
+    "description": "Dubai-based promoter Sahil Arora ran the mid-2024 'celeb meta' launch factory: he pitched celebrities including Caitlyn Jenner, Rich the Kid, Jason Derulo and Iggy Azalea, launched Pump.fun tokens tied to their names (sometimes posting from their own accounts), then dumped his allocations and left holders with collapsed charts -- Jenner, Derulo and Rich the Kid all publicly said he scammed them. Investigator Roxo traced wallets behind tokens launched 'on behalf of' Soulja Boy, Rich The Kid, Kazumi and Ivana Knoll back to Arora, X banned his account in June 2024, and Arora has openly called rug pulls 'the easiest way to make money.' Per ZachXBT's wallet analysis he likely netted $2-3M from the run.",
+    "outcome": "Banned from X (June 2024); no charges reported"
+  },
+  {
+    "date": 1716854400,
+    "name": "Iggy Azalea",
+    "handle": "IGGYAZALEA",
+    "role": "Musician",
+    "scamType": "Insider Dump",
+    "token": "MOTHER",
+    "chain": [
+      "Solana"
+    ],
+    "amount": null,
+    "amountDesc": "Per Bubblemaps, insiders acquired 20%+ of supply pre-launch and realized ~$1.4M in profits (plus ~$400k unrealized); one insider-linked wallet dumped ~10% of supply; token later collapsed 99.5% from peak per the class action",
+    "deletedPromo": false,
+    "source": [
+      "https://decrypt.co/366832/iggy-azalea-lawsuit-solana-mother-meme-coin",
+      "https://beincrypto.com/iggy-azalea-mother-meme-coin-controversy/",
+      "https://unchainedcrypto.com/iggy-azalea-denies-dupming-mother/"
+    ],
+    "description": "Iggy Azalea launched and heavily promoted MOTHER on Solana from May 28, 2024; per Bubblemaps, insiders acquired over 20% of the supply before the public launch and netted roughly $1.4M in profits, including a launch-linked wallet that dumped about 10% of supply. Azalea denies insider trading and dumping ~$2M of MOTHER, but a class action over the token's 99.5% collapse was filed against her in 2025.",
+    "outcome": "Class action pending (filed 2025)"
+  },
+  {
+    "date": 1716940800,
+    "name": "Davido",
+    "handle": "davido",
+    "role": "Musician",
+    "scamType": "Insider Dump",
+    "token": "DAVIDO",
+    "chain": [
+      "Solana"
+    ],
+    "amount": 474000,
+    "amountDesc": "Bought 203M DAVIDO (20.3% of supply) with ~7 SOL at launch and dumped 121.88M tokens within a day for ~2,791 SOL (~$474K) per on-chain trackers including Lookonchain; the token fell more than 90% from its ~$10M peak. The influencer who set up the launch claims Davido was also paid $30K upfront.",
+    "deletedPromo": false,
+    "source": [
+      "https://news.bitcoin.com/nigerian-artist-davidos-meme-coin-plummets-shortly-after-he-pockets-474000-from-token-sale/",
+      "https://techcabal.com/2024/05/30/davido-solana-coin/",
+      "https://www.mariblock.com/exclusive-davido-paid-30k-to-launch-meme-coin-influencer-claims/"
+    ],
+    "description": "Nigerian afrobeats star Davido launched the 'Timeless Davido' (DAVIDO) memecoin on Solana via Pump.fun on May 29, 2024 and promoted it to his millions of X followers as it raced to a ~$10M market cap within hours. Per on-chain analysis by Lookonchain and others, he sold most of his 20.3% insider allocation the next day for roughly $474K as the price collapsed over 90%. The influencer who organized the launch later claimed he paid Davido $30K to front the token.",
+    "outcome": null
+  },
+  {
+    "date": 1717027200,
+    "name": "Lil Pump",
+    "handle": "lilpump",
+    "role": "Musician",
+    "scamType": "Deleted Promo",
+    "token": null,
+    "chain": [
+      "Solana"
+    ],
+    "amount": null,
+    "amountDesc": "ZachXBT said he 'still got partially paid for the scam'; amount not quantified",
+    "deletedPromo": true,
+    "source": [
+      "https://x.com/zachxbt/status/1795997700334178549",
+      "https://www.newsbtc.com/meme-coins/lil-pump-and-dump-sec-issues-warning-as-more-musicians-dump-their-memecoins/"
+    ],
+    "description": "In late May 2024 Lil Pump posted then deleted within minutes a promo for a memecoin launched with serial celebrity-memecoin scammer Sahil Arora, after the token was dumped. ZachXBT screenshotted the deleted post ('Scamming since at least 2022'), published team messages showing the launch was managed on his behalf with the paid-promo tag hidden, and said the rapper still got partially paid; ZachXBT also pointed to an April 2022 pump-and-dump promo by the rapper.",
+    "outcome": null
+  },
+  {
+    "date": 1717977600,
+    "name": "Andrew Tate",
+    "handle": "Cobratate",
+    "role": "Internet Celebrity",
+    "scamType": "Insider Dump",
+    "token": "DADDY",
+    "chain": [
+      "Solana"
+    ],
+    "amount": null,
+    "amountDesc": "Per Bubblemaps, insiders accumulated ~30% of DADDY supply, including 11 Binance-funded wallets that bought 20% on June 9, 2024, before Tate's first post, sitting on $45M-$61M unrealized at the peak; the token has since suffered repeated pump-and-dumps and trades far below its highs.",
+    "deletedPromo": false,
+    "source": [
+      "https://decrypt.co/235020/andrew-tate-solana-token-daddy-450-insider-buying",
+      "https://www.coindesk.com/markets/2024/06/13/early-buyers-of-andrew-tates-daddy-meme-coin-apparently-sitting-on-45m-in-unrealized-value",
+      "https://cryptobriefing.com/daddy-insider-activity-risk/"
+    ],
+    "description": "Tate promoted the DADDY memecoin to his followers in June 2024, pledging to \"pump\" it and urging fans to buy. Bubblemaps' on-chain analysis found heavy insider activity: 11 wallets funded through Binance with near-identical amounts bought 20% of the supply on June 9, before Tate's first public post, with insider holdings totaling ~30% of supply worth $45M+ at the peak. Tate responded by blocking the investigators; the token has since bled through repeated pump-and-dump cycles.",
+    "outcome": null
+  },
+  {
+    "date": 1718236800,
+    "name": "Dillon Danis",
+    "handle": "dillondanis",
+    "role": "Athlete",
+    "scamType": "Deleted Promo",
+    "token": null,
+    "chain": [],
+    "amount": null,
+    "amountDesc": "Charged ~$5,000 per promo tweet per Coffeezilla's sting; the 20+ promoted projects (SquidTwo, Dione, Faceless, Volt Inu, Gambling Apes and others) rugged for undisclosed amounts.",
+    "deletedPromo": true,
+    "source": [
+      "https://x.com/zachxbt/status/1801337513946001411",
+      "https://cointelegraph.com/news/youtuber-baits-mma-fighter-into-secretly-shilling-fake-nfts-for-1k"
+    ],
+    "description": "The MMA fighter ran undisclosed paid promos for a stream of 2021-22 tokens and NFT mints that rugged; ZachXBT compiled archives of 20+ 'confirmed crypto scams' Danis pushed, including SquidTwo, Dione, Faceless, Volt Inu and Gambling Apes, noting Danis had deleted most of the posts. Coffeezilla's February 2022 sting separately caught him negotiating ~$5,000 for a single undisclosed shill tweet of a fake NFT project that redirected fans to a page listing his past paid promos.",
+    "outcome": null
+  },
+  {
+    "date": 1718582400,
+    "name": "Waka Flocka Flame",
+    "handle": "WakaFlocka",
+    "role": "Musician",
+    "scamType": "Insider Dump",
+    "token": "FLOCKA",
+    "chain": [
+      "Solana"
+    ],
+    "amount": null,
+    "amountDesc": "Wallet that acquired ~40% of FLOCKA supply dispersed it to multiple wallets shortly after launch per ZachXBT; realized insider profit not quantified",
+    "deletedPromo": false,
+    "source": [
+      "https://cointelegraph.com/news/waka-flocka-flame-token-insider-trading",
+      "https://www.theblock.co/post/300363/waka-flocka-flame-criticism",
+      "https://x.com/zachxbt/status/2090058887714263363"
+    ],
+    "description": "Waka Flocka Flame launched FLOCKA on Solana on June 17, 2024; per ZachXBT's wallet analysis, a single wallet acquired roughly 40% of the supply and dispersed it across multiple wallets right after launch, a pattern consistent with insider dumping. ZachXBT also flagged the rapper's history of undisclosed paid promotions of dubious projects on Ethereum in 2021–2022, and in August 2026 called him 'a known celeb extractor who promoted numerous scams undisclosed.'",
+    "outcome": null
+  },
+  {
+    "date": 1719100800,
+    "name": "Jason Derulo",
+    "handle": "jasonderulo",
+    "role": "Musician",
+    "scamType": "Insider Dump",
+    "token": "JASON",
+    "chain": [
+      "Solana"
+    ],
+    "amount": 200000,
+    "amountDesc": "Per Bubblemaps, wallets linked to launch partner Sahil Arora held ~half of JASON's supply and dumped for ~$180k after Derulo's first promo, and a wallet allegedly linked to Derulo sold ~$20k despite his public 'never selling' pledge; token fell 70%+",
+    "deletedPromo": false,
+    "source": [
+      "https://decrypt.co/236730/jason-derulo-solana-meme-coin-surges-duped-promoter",
+      "https://cryptonews.com/news/jason-derulo-sells-meme-token-despite-promising-never-to-sell-reports-bubblemaps/",
+      "https://crypto.news/jason-derulo-blames-sahil-arora-after-meme-coin-promotion-backfires/"
+    ],
+    "description": "Derulo promoted the JASON memecoin on Solana in June 2024; it collapsed over 70% almost immediately as wallets tied to serial celebrity-memecoin scammer Sahil Arora, who held about half the supply, dumped for ~$180k per Bubblemaps. Derulo claimed Arora duped him and vowed to keep buying, but Bubblemaps identified a wallet allegedly linked to Derulo that received tokens from Arora and sold ~$20k, contradicting his public pledge never to sell.",
+    "outcome": null
+  },
+  {
+    "date": 1719360000,
+    "name": "Moneybagg Yo",
+    "handle": "MoneyBaggYo",
+    "role": "Musician",
+    "scamType": "Insider Dump",
+    "token": "SPEAK",
+    "chain": [
+      "Solana"
+    ],
+    "amount": null,
+    "amountDesc": "SPEAK fell over 90% from launch; insider take not quantified",
+    "deletedPromo": false,
+    "source": [
+      "https://cointelegraph.com/news/celebrity-memecoins-crypto-influencer",
+      "https://www.newsbtc.com/meme-coins/lil-pump-and-dump-sec-issues-warning-as-more-musicians-dump-their-memecoins/"
+    ],
+    "description": "Moneybagg Yo's SPEAK memecoin launched on Solana during the June 2024 celebrity memecoin wave tied to serial scammer Sahil Arora and fell more than 90% from launch, drawing pump-and-dump accusations in coverage of musicians dumping their own tokens.",
+    "outcome": null
+  },
+  {
+    "date": 1719360000,
+    "name": "Trippie Redd",
+    "handle": "trippieredd",
+    "role": "Musician",
+    "scamType": "Insider Dump",
+    "token": "BANDO",
+    "chain": [
+      "Solana"
+    ],
+    "amount": null,
+    "amountDesc": "BANDO fell over 90% from launch; insider take not quantified",
+    "deletedPromo": false,
+    "source": [
+      "https://cointelegraph.com/news/celebrity-memecoins-crypto-influencer",
+      "https://www.newsbtc.com/meme-coins/lil-pump-and-dump-sec-issues-warning-as-more-musicians-dump-their-memecoins/"
+    ],
+    "description": "Trippie Redd's BANDO memecoin launched on Solana during the June 2024 celebrity memecoin wave tied to serial scammer Sahil Arora and fell more than 90% from launch. ZachXBT named Trippie Redd among celebrities who launched a scam memecoin in the preceding two years.",
+    "outcome": null
+  },
+  {
+    "date": 1719532800,
+    "name": "Amber Rose",
+    "handle": "DaRealAmberRose",
+    "role": "Reality TV/Model",
+    "scamType": "Insider Dump",
+    "token": "MUVA",
+    "chain": [
+      "Solana"
+    ],
+    "amount": null,
+    "amountDesc": "No reliable estimate of the insider take. At launch the deployer address held ~22% of supply and the top-10 wallets ~69%; a fresh wallet holding 7.2% of supply sold 227 SOL (~$33K) immediately, and the token subsequently collapsed to near zero.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.coinspeaker.com/amber-rose-meme-coin-token-muva/",
+      "https://www.cryptopolitan.com/amber-rose-to-crypto-with-muva/"
+    ],
+    "description": "Model Amber Rose launched the MUVA memecoin on Solana in late June 2024, teasing it to her ~3.5M X followers. Per reports citing ZachXBT, he warned buyers that Rose had promoted an 'endless list' of fake crypto projects that ended as pump-and-dumps or rug pulls; Rose responded that earlier promos were paid posts made when she was 'not well informed.' On-chain observers flagged heavy insider concentration and immediate selling from fresh wallets at launch, and the token collapsed.",
+    "outcome": null
+  },
+  {
+    "date": 1719878400,
+    "name": "Sexyy Red",
+    "handle": null,
+    "role": "Musician",
+    "scamType": "Insider Dump",
+    "token": "PRESI",
+    "chain": [
+      "Solana"
+    ],
+    "amount": null,
+    "amountDesc": "Per ZachXBT, team-linked addresses sniped over 90% of PRESI's supply at launch; a previous token she offered had 82% of supply bought by the team at launch",
+    "deletedPromo": false,
+    "source": [
+      "https://cointelegraph.com/news/rapper-sexyy-red-team-bought-90-percent-presi-token-zachxbt"
+    ],
+    "description": "On July 2, 2024 Sexyy Red promoted her 'President Red' (PRESI) token on Solana; per ZachXBT's wallet analysis, addresses he attributed to her team sniped more than 90% of the supply at launch, positioning insiders to dump on fans. ZachXBT noted a previous token offered by the rapper had 82% of its supply bought by the team at launch.",
+    "outcome": null
+  },
+  {
+    "date": 1728432000,
+    "name": "'ardizor' influencer network (single operator, 16 accounts)",
+    "handle": "ardizor",
+    "role": "Crypto KOL",
+    "scamType": "Undisclosed Promo",
+    "token": null,
+    "chain": [
+      "Solana"
+    ],
+    "amount": null,
+    "amountDesc": "Promoted memecoins including ANALOS, BALLZ and CATDOG that subsequently collapsed; per fellow-sleuth claims cited in coverage, the ring placed 5-6 of its accounts into multiple $400,000+ promo deals; no total extraction figure documented.",
+    "deletedPromo": false,
+    "source": [
+      "https://beincrypto.com/zachxbt-exposes-16-x-meme-coin-accounts/"
+    ],
+    "description": "Per ZachXBT (October 2024), the 375k-follower X account 'ardizor' and 16 linked accounts -- most with blue checkmarks and followings up to several hundred thousand -- are run by a single operator, cross-promoting each other and shilling memecoins such as ANALOS, BALLZ and CATDOG to millions of followers before the tokens' values plummeted. Coverage also tied accounts in the ring to Polkadot's controversial marketing spend, and cited claims the network landed multiple $400k+ promotional deals across its sockpuppet accounts.",
+    "outcome": null
+  },
+  {
+    "date": 1733270400,
+    "name": "Haliey Welch",
+    "handle": "HalieyWelchX",
+    "role": "Internet Celebrity",
+    "scamType": "Insider Dump",
+    "token": "HAWK",
+    "chain": [
+      "Solana"
+    ],
+    "amount": null,
+    "amountDesc": "HAWK hit ~$490M market cap on Dec 4, 2024 and collapsed ~91% within hours; 80+ pre-allocated wallets that never bought the token sold for $10K-$365K each per on-chain data, and the launch team reportedly netted ~$3M in fees and sales. Welch says she never sold and received a flat fee.",
+    "deletedPromo": false,
+    "source": [
+      "https://cointelegraph.com/news/hawk-tuah-girl-haliey-welch-fbi-probed-over-hawk-memecoin",
+      "https://www.forbes.com/sites/conormurray/2025/05/20/hawk-tuah-creator-haliey-welch-says-fbi-knocked-on-her-grandmothers-door-after-failed-crypto-launch/",
+      "https://www.ibtimes.co.uk/hawk-tuah-crypto-update-us-sec-closes-investigation-finds-no-evidence-against-haliey-welch-1732269"
+    ],
+    "description": "The \"Hawk Tuah girl\" fronted the HAWK memecoin launched Dec 4, 2024 with the overHere team, which reached ~$490M market cap before collapsing ~91% within hours. On-chain data showed more than 80 wallets with pre-launch allocations dumping into the fan-driven pump, while fans reported losing savings; investors sued launch partners overHere Ltd and Clinton So (Welch was not named as a defendant). Welch denied selling and cooperated with the FBI and SEC; the SEC closed its investigation without findings against her.",
+    "outcome": "SEC probe closed with no action against Welch (2025); investor suit against launch partners overHere Ltd and Clinton So pending"
+  },
+  {
+    "date": 1735689600,
+    "name": "Hasbulla",
+    "handle": "Hasbulla_NFT",
+    "role": "Internet Celebrity",
+    "scamType": "Insider Dump",
+    "token": "BARSIK",
+    "chain": [
+      "Solana"
+    ],
+    "amount": null,
+    "amountDesc": "More than 60% of BARSIK's supply/funds were reportedly captured by insiders and bots at launch, with team-linked wallets selling while promotion continued; months later the follow-up BULLA presale raised $5M in two hours (reportedly $20M+ within a day) amid ZachXBT's warnings.",
+    "deletedPromo": false,
+    "source": [
+      "https://coinjournal.net/news/analysts-raise-alarm-on-hasbullas-bulla-memecoin-after-barsik-rug-pull/",
+      "https://www.ccn.com/news/crypto/hasbulla-raises-5m-bulla-first-memecoin-rug/",
+      "https://coingape.com/fact-check-is-hasbullas-bulla-token-another-pump-n-dump/"
+    ],
+    "description": "The viral blogger's cat-themed BARSIK token, promoted through Hasbulla's accounts in early 2025, saw over 60% of supply scooped by insiders and bots at launch and team-linked wallets dumping while promotion continued, per on-chain analysts. ZachXBT publicly told followers not to send funds to the team's follow-up BULLA presale in May 2025, writing \"You already rugged with your other bundled token, BARSIK, only a few months ago\" and accusing the team of scamming presale investors; the team banned him and deleted critical messages.",
+    "outcome": null
+  },
+  {
+    "date": 1737072000,
+    "name": "Donald Trump",
+    "handle": "realDonaldTrump",
+    "role": "Politician",
+    "scamType": "Insider Dump",
+    "token": "TRUMP",
+    "chain": [
+      "Solana"
+    ],
+    "amount": 636000000,
+    "amountDesc": "Financial Times analysis: ~$314M from token sales plus ~$36M in fees pulled by Trump-affiliated entities in the first three weeks; Trump's 2026 federal financial disclosure reported $636M in earnings from the coin. Per Nansen data reported by the NYT, ~989,000 wallets lost a combined $3.8B as the token fell ~98% from its $75.35 peak.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.coindesk.com/business/2026/07/04/trump-s-crypto-token-buyers-are-down-usd3-8-billion-blockchain-data-shows",
+      "https://fortune.com/2026/07/07/donald-trump-meme-coin-world-liberty-financial-finance-politics/",
+      "https://www.pymnts.com/cryptocurrency/2025/creators-trump-meme-coin-made-350-million-dollars-3-weeks/",
+      "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
+      "https://www.nbcnews.com/tech/crypto/trumps-memecoin-dinner-contest-earns-insiders-900000-two-days-rcna203071"
+    ],
+    "description": "Trump launched the $TRUMP memecoin on Solana three days before his inauguration and promoted it from his X and Truth Social accounts, with Trump-affiliated entities CIC Digital and Fight Fight Fight LLC holding 80% of supply and controlling the launch liquidity. A March 2025 Financial Times analysis found the insider entities extracted roughly $350M in the first three weeks, about $314M from selling tokens into the launch plus $36M in trading fees, going well beyond passive creator-fee revenue. Trump's own 2026 federal financial disclosure reported $636M in earnings from the coin, while Nansen data reported by the New York Times showed ~989,000 wallets (two of every three buyers) lost a combined $3.8B as the token collapsed ~98% from its $75.35 peak. No charges or regulatory action have been brought; the extraction is documented by the FT and Nansen analyses and Trump's own disclosure rather than any legal finding.",
+    "outcome": null
+  },
+  {
+    "date": 1737244800,
+    "name": "Hayden Davis",
+    "handle": null,
+    "role": "Other",
+    "scamType": "Insider Dump",
+    "token": "MELANIA",
+    "chain": [
+      "Solana"
+    ],
+    "amount": null,
+    "amountDesc": "No reliable per-person figure for MELANIA alone; the amended SDNY complaint alleges the Meteora-Kelsier operation defrauded investors of at least $57M across its tokens (MELANIA, LIBRA, M3M3, ENRON, TRUST).",
+    "deletedPromo": false,
+    "source": [
+      "https://finance.yahoo.com/news/creator-controversial-libra-memecoin-introduced-063209533.html",
+      "https://www.dlnews.com/articles/people-culture/man-behind-milei-memecoin-also-worked-on-melania-trump-coin/",
+      "https://fortune.com/crypto/2025/10/23/melania-trump-memecoin-conspiracy-court-filing-benjamin-chow-hayden-davis/"
+    ],
+    "description": "Kelsier Ventures CEO Hayden Davis told CoinDesk he introduced and helped launch Melania Trump's MELANIA memecoin and that his team sniped both MELANIA and LIBRA as soon as the contract addresses went live, framing it as defense against outside snipers. He initially claimed the team 'didn't take any liquidity out, zero', then conceded in the same interview that tokens had been sold. The amended Burwick class action in the SDNY names Davis and his brothers alongside Meteora co-founder Benjamin Chow, alleging MELANIA was part of a multi-token pump-and-dump 'fraud factory' that extracted at least $57M from retail investors across its launches.",
+    "outcome": "Named defendant in SDNY class action (fraud/RICO claims); pending"
+  },
+  {
+    "date": 1737244800,
+    "name": "Melania Trump",
+    "handle": "MELANIATRUMP",
+    "role": "Politician",
+    "scamType": "Insider Dump",
+    "token": "MELANIA",
+    "chain": [
+      "Solana"
+    ],
+    "amount": 30000000,
+    "amountDesc": "~$30M (50M tokens) moved out of 'community funds' and quietly sold across split wallets per Bubblemaps (Apr 2025), with ~92% of supply in team wallets; token collapsed more than 95% from its $13.73 peak, hitting ~$0.10 by late 2025.",
+    "deletedPromo": false,
+    "source": [
+      "https://cointelegraph.com/news/melania-trump-memecoin-team-sold-30-million-bubblemaps",
+      "https://decrypt.co/313866/melania-solana-meme-coin-dumps-bubblemaps",
+      "https://www.forbes.com/sites/alisondurkee/2025/10/22/melania-under-fire-first-ladys-memecoin-was-part-of-fraudulent-scheme-lawsuit-alleges-what-to-know/",
+      "https://fortune.com/crypto/2025/10/23/melania-trump-memecoin-conspiracy-court-filing-benjamin-chow-hayden-davis/"
+    ],
+    "description": "Incoming First Lady Melania Trump announced the $MELANIA memecoin on X two days after $TRUMP launched; it spiked to $13.73 before collapsing more than 95%. Per Bubblemaps' wallet analysis, ~92% of supply sat in team-controlled wallets, and in April 2025 the team moved 50M tokens (~$30M) out of 'community funds' and quietly sold them across split wallets with no announcement or explanation. The launch was run by Hayden Davis's Kelsier operation, which admitted sniping the token at launch, and an amended class action in the SDNY (Oct 2025) alleges MELANIA was one leg of a Meteora-Kelsier multi-token pump-and-dump enterprise that 'weaponized fame to disarm diligence'. Melania Trump herself is not named as a defendant and no wallet activity has been legally attributed to her personally.",
+    "outcome": "Class action pending in SDNY against the launch operators (Meteora/Kelsier figures); Melania Trump not a defendant"
+  },
+  {
+    "date": 1738281600,
+    "name": "Ryan Garcia",
+    "handle": "KingRyang",
+    "role": "Athlete",
+    "scamType": "Deleted Promo",
+    "token": "RYAN",
+    "chain": [
+      "Solana"
+    ],
+    "amount": null,
+    "amountDesc": "$RYAN collapsed more than 90% almost immediately after launch; no verified charity distribution or on-chain attribution of dump profits to Garcia was published.",
+    "deletedPromo": true,
+    "source": [
+      "https://x.com/coffeebreak_YT/status/1885441712815813011",
+      "https://theboxingtribune.com/ryan-garcia-scandal-meme-coin/",
+      "https://www.essentiallysports.com/boxing-news-ryan-garcia-runs-into-trouble-as-crypto-dream-becomes-a-nightmare-scamming-in-the-millions/"
+    ],
+    "description": "Garcia launched the $RYAN memecoin in late January 2025, telling his followers that '40% of ALL the $RYAN supply will go to CHARITY' as part of a youth-empowerment pitch. The token collapsed more than 90% almost immediately and Garcia deleted his launch post, as documented by Coffeezilla; he then claimed he 'didn't launch this memecoin to make money of people'. No charity distribution or accounting of the launch wallets was ever published.",
+    "outcome": null
+  },
+  {
+    "date": 1739059200,
+    "name": "Faustin-Archange Touadéra",
+    "handle": "FA_Touadera",
+    "role": "Politician",
+    "scamType": "Insider Dump",
+    "token": "CAR",
+    "chain": [
+      "Solana"
+    ],
+    "amount": null,
+    "amountDesc": "No reliable insider total; token peaked near a $800-900M market cap and collapsed more than 95% within days. On-chain analysts flagged ~76% of supply held by four wallets, with the top wallet flipping ~$8,900 into $2.5M+ of realized profit.",
+    "deletedPromo": false,
+    "source": [
+      "https://www.bloomberg.com/news/articles/2025-02-11/bitcoin-s-first-african-adopter-starts-memecoin-to-woo-investors",
+      "https://blockworks.com/news/central-african-republic-memecoin",
+      "https://www.mariblock.com/car-presidents-memecoin-real-or-a-hack/",
+      "https://beincrypto.com/car-meme-coin-central-african-republic/",
+      "https://cryptoslate.com/central-african-republic-sets-date-for-tokenized-land-on-solana-via-controversial-car-memecoin/"
+    ],
+    "description": "Central African Republic president Faustin-Archange Touadéra announced the $CAR memecoin on X as an 'experiment' to support national development; the Pump.fun-launched token ran to a market cap of roughly $800-900M before collapsing more than 95% within days. On-chain analysts including Coffeezilla flagged that ~76% of supply was concentrated in four wallets and that the top wallet turned ~$8,900 into more than $2.5M of realized profit, alleging insiders sold into the pump driven by the president's promotion. Deepfake-detection tools initially cast doubt on his announcement video and the token's domain was briefly suspended, but the presidency continued promoting the token and later announced a tokenized land sale, confirming the project as genuinely state-backed. No investigation or charges have been announced.",
+    "outcome": null
+  },
+  {
+    "date": 1739491200,
+    "name": "Hayden Davis",
+    "handle": null,
+    "role": "Other",
+    "scamType": "Insider Dump",
+    "token": "LIBRA",
+    "chain": [
+      "Solana"
+    ],
+    "amount": 100000000,
+    "amountDesc": "Bubblemaps traced a single insider cluster draining ~$87M from LIBRA's single-sided liquidity within an hour; Davis admitted controlling roughly $100M he called 'Argentina's money'. A SDNY judge froze ~$110M across Davis-linked accounts (including ~$58M of USDC frozen by Circle). Per Nansen, 86% of LIBRA traders lost a combined $251M as ~$4B of market cap evaporated.",
+    "deletedPromo": false,
+    "source": [
+      "https://blog.bubblemaps.io/the-libra-playbook-how-one-cluster-drained-87-million-in-a-single-hour/",
+      "https://www.coindesk.com/business/2025/02/18/libra-token-s-co-creator-bragged-of-sending-money-to-argentine-president-milei-s-sister",
+      "https://fortune.com/crypto/2025/03/13/hayden-davis-javier-milei-interpol-red-notice-prosecutor-asked-judge-melania/",
+      "https://www.thestreet.com/crypto/policy/this-28-year-old-made-100m-launching-a-token-with-argentina-president-javier-milei",
+      "https://finance.yahoo.com/news/argentina-freezes-hayden-davis-assets-223000417.html",
+      "https://buenosairesherald.com/politics/judiciary/libra-crypto-scandal-whats-the-status-of-the-legal-inquiry-in-argentina-and-the-us"
+    ],
+    "description": "Hayden Davis's Kelsier Ventures created and ran the launch of LIBRA, the Solana memecoin promoted by Argentine president Javier Milei on 14 February 2025. Per Bubblemaps' wallet analysis, a single insider cluster drained ~$87M from LIBRA's single-sided liquidity within an hour of launch, and Davis admitted in interviews to sniping the token and to sitting on roughly $100M he described as 'Argentina's money'; texts reported by CoinDesk showed him claiming he sent money to Milei's sister Karina and could influence the president. He is the lead defendant in the Burwick class action in the SDNY, where a judge froze ~$110M of Davis-linked assets, while Argentine courts froze his assets and LIBRA tokens in November 2025 over suspicions they were used to bribe officials, and Argentine prosecutors sought an Interpol red notice. Per Decrypt, LIBRA-linked wallets went on to make ~$12M sniping Kanye West's YZY launch in August 2025.",
+    "outcome": "SDNY class action pending with ~$110M frozen; Argentine asset freezes (Nov 2025); Interpol red notice sought by Argentine prosecutors"
+  },
+  {
+    "date": 1739491200,
+    "name": "Javier Milei",
+    "handle": "JMilei",
+    "role": "Politician",
+    "scamType": "Deleted Promo",
+    "token": "LIBRA",
+    "chain": [
+      "Solana"
+    ],
+    "amount": null,
+    "amountDesc": "No documented personal take; an Argentine court probe surfaced a draft agreement describing an alleged $5M deal for presidential backing. LIBRA hit a ~$4.6B market cap after his post and collapsed ~89% as insiders cashed out, with LIBRA traders losing a combined $251M per Nansen.",
+    "deletedPromo": true,
+    "source": [
+      "https://buenosairesherald.com/politics/judiciary/libra-scandal-argentinas-judiciary-opens-investigation-into-milei",
+      "https://en.mercopress.com/2026/03/16/argentine-court-probe-finds-alleged-us-5-million-deal-tied-to-milei-s-promotion-of-libra",
+      "https://www.coindesk.com/business/2026/04/07/argentine-president-milei-s-call-logs-link-him-to-multimillion-dollar-libra-rug-pull-nyt",
+      "https://buenosairesherald.com/politics/libra-crypto-scandal-milei-used-presidential-role-to-spread-alleged-scam-congress-report-concludes",
+      "https://fortune.com/crypto/2025/02/18/javier-milei-memecoin-libra-cryptocurrency-crash-argentina-federal-judge-investigation/"
+    ],
+    "description": "Argentine president Javier Milei posted about LIBRA to his millions of X followers minutes after the token went live, presenting it as a project to fund small Argentine businesses; LIBRA spiked to a ~$4.6B market cap before insider wallets drained the liquidity, and Milei deleted the post hours later saying he had not been aware of the project's details. Federal prosecutor Eduardo Taiano opened a criminal investigation of Javier and Karina Milei covering possible fraud, bribery, influence peddling and abuse of authority; the court probe recovered a draft agreement from promoter Mauricio Novelli's phone describing an alleged US$5M deal in exchange for presidential backing, and call logs reported by the New York Times show repeated contact between Milei and Novelli around the launch. A congressional investigative commission concluded Milei used his presidential role to spread an alleged scam. Milei denies wrongdoing, maintaining he merely 'shared' rather than promoted the token; he has not been charged as of August 2026.",
+    "outcome": "Argentine federal criminal investigation ongoing; congressional commission concluded he abused his presidential role; no charges as of August 2026"
+  },
+  {
+    "date": 1740960000,
+    "name": "Ronaldinho",
+    "handle": "10Ronaldinho",
+    "role": "Athlete",
+    "scamType": "Insider Dump",
+    "token": "STAR10",
+    "chain": [
+      "BSC"
+    ],
+    "amount": null,
+    "amountDesc": "Per Nansen data, an insider wallet tied to the launch turned 48 BNB (~$29k) into 20.79M STAR10 worth ~$4.9M and began selling; the token fell 18% on its debut day.",
+    "deletedPromo": false,
+    "source": [
+      "https://decrypt.co/308452/ronaldinho-token-dips-insider-trading-allegations",
+      "https://beincrypto.com/ronaldinho-star10-token-launch/"
+    ],
+    "description": "Ronaldinho launched his 'official' STAR10 token on BNB Chain on March 3, 2025, hyping it on X as granting access to collectibles and an AI agent. Per Nansen data reported by Decrypt, a wallet linked to the launch acquired 20.79M STAR10 for about 48 BNB (~$29k), a position that swelled to roughly $4.9M as retail bought in, and began selling; the token dropped 18% on debut amid insider-trading allegations. ZachXBT flagged the launch as the latest in Ronaldinho's history of questionable crypto promotions.",
+    "outcome": null
+  },
+  {
+    "date": 1752192000,
+    "name": "Akon",
+    "handle": "Akon",
+    "role": "Musician",
+    "scamType": "Abandoned Project",
+    "token": "Akoin",
+    "chain": [
+      "Stellar"
+    ],
+    "amount": null,
+    "amountDesc": "Akoin token sold to the public as the currency of a promised $6B 'Akon City'; token is near-worthless and the 800-hectare site holds one unfinished building",
+    "deletedPromo": false,
+    "source": [
+      "https://consequence.net/2025/07/akon-city-senegal-cryptocurrency-abandoned/",
+      "https://www.vibe.com/news/national/akon-city-ponzi-scheme-1234651423/"
+    ],
+    "description": "Akon sold Akoin to the public as the future sole currency of Akon City, a $6B futuristic city in Senegal that after seven years produced no roads, housing or power. In July 2025 Senegal's tourism authority confirmed 'the Akon City project no longer exists.' His ex-business partner alleged in a 2020 lawsuit that Akon planned to run the venture like a Ponzi scheme, and Akon himself admitted the project 'wasn't being managed properly' while struggling to repay investors.",
+    "outcome": null
+  },
+  {
+    "date": 1752451200,
+    "name": "Crypto Beast",
+    "handle": "cryptobeastreal",
+    "role": "Crypto KOL",
+    "scamType": "Insider Dump",
+    "token": "ALT",
+    "chain": [
+      "Solana"
+    ],
+    "amount": 11000000,
+    "amountDesc": "Per ZachXBT's tracing, 45 connected insider wallets sold over $11M of ALT on July 14, 2025, crashing the token's market cap from ~$190M to ~$3M within minutes.",
+    "deletedPromo": true,
+    "source": [
+      "https://cryptonews.com/news/zachxbt-exposes-crypto-beast-11m-alt-token-dump/"
+    ],
+    "description": "X influencer who heavily promoted the Solana memecoin ALT ('Altcoin') to his followers. Per ZachXBT's July 2025 investigation, a cluster of 45 insider wallets -- funded through instant exchanges traceable back to the same address that funded Crypto Beast's known wallet -- dumped over $11M of ALT on July 14, 2025, collapsing its market cap from ~$190M to ~$3M in minutes. Crypto Beast blamed 'whale snipers' while deleting his ALT promotional posts; ZachXBT also linked him to earlier failed promotions including ALPHA, RICH, YE, RUG, ACE and JOHN. No legal action has been documented.",
+    "outcome": null
+  },
+  {
+    "date": 1755734400,
+    "name": "Kanye West (Ye)",
+    "handle": "kanyewest",
+    "role": "Musician",
+    "scamType": "Insider Dump",
+    "token": "YZY",
+    "chain": [
+      "Solana"
+    ],
+    "amount": null,
+    "amountDesc": "13 insider/sniper wallets made $24M+ combined; Bubblemaps alleged a Hayden Davis-coordinated ring sniped $12M via 14 wallets; ~70% of supply retained by Ye's side; 51,000+ traders lost ~$74M within a week as mcap fell from ~$3B to ~$82M",
+    "deletedPromo": false,
+    "source": [
+      "https://www.coindesk.com/markets/2025/08/21/insiders-cash-in-millions-as-ye-formerly-kanye-west-apparently-issues-yzy-token",
+      "https://cryptoslate.com/hayden-davis-allegedly-sniped-kanye-wests-yzy-token-to-make-12-million-in-profits/",
+      "https://crypto.news/kanye-west-yzy-memecoin-plunges-insider-trading-2025/"
+    ],
+    "description": "Ye launched the YZY token on Solana on August 21, 2025 with the vast majority of supply retained by insiders; it spiked ~1,400% to a ~$3B market cap before collapsing more than 80% within hours as insiders and snipers cashed out. Per CoinDesk and on-chain analysts, 13 wallets each cleared over $1M for $24M+ combined, Bubblemaps alleged LIBRA-linked sniper Hayden Davis coordinated a $12M sniping operation, and ~74% of the 70,000+ buyers lost money, over $74M in retail losses within a week.",
+    "outcome": null
+  },
+  {
+    "date": 1756684800,
+    "name": "Trump family (World Liberty Financial)",
+    "handle": "worldlibertyfi",
+    "role": "Politician",
+    "scamType": "Insider Dump",
+    "token": "WLFI",
+    "chain": [
+      "Ethereum"
+    ],
+    "amount": 799000000,
+    "amountDesc": "Donald Trump's 2026 federal financial disclosure reported ~$799M from WLFI (including ~$520M from token sales and ~$250M from selling his interest); public token rounds raised $550M+ with 75% of net proceeds directed to family entity DT Marks DEFI LLC; undisclosed follow-on sales of 5.9B tokens raised hundreds of millions more. WLFI fell more than 80% from peak.",
+    "deletedPromo": false,
+    "source": [
+      "https://cryptobriefing.com/world-liberty-wlfi-token-sales/",
+      "https://fortune.com/2026/07/07/donald-trump-meme-coin-world-liberty-financial-finance-politics/",
+      "https://fortune.com/2026/04/10/trump-world-liberty-financial-crypto-tokens-insider-loans/",
+      "https://www.cnbc.com/2025/11/18/senator-probe-warren-trump-crypto-world-liberty-financial-usd1-wlfi-ties-north-korea-russia-iran.html"
+    ],
+    "description": "The Trump family co-founded and heavily promoted World Liberty Financial, whose token-sale structure directs 75% of net proceeds to DT Marks DEFI LLC, a Trump-affiliated entity that also held 22.5B WLFI tokens; two public rounds raised over $550M before trading opened in September 2025. In May 2026, Bloomberg, working from governance filings analyzed by Tokenomist.ai, revealed that WLFI had quietly sold a further 5.9 billion tokens to private buyers for hundreds of millions of dollars without disclosing the sales to existing holders; the company confirmed the sales only after the report, and the token hit an all-time low, down more than 80% from its peak. Donald Trump's 2026 federal financial disclosure reported ~$799M in WLFI-related earnings. Senators Warren and Reed asked the DOJ and Treasury to investigate WLFI token sales' links to sanctioned entities (Nov 2025); no charges have been brought.",
+    "outcome": "DOJ/Treasury investigation requested by Sens. Warren and Reed (Nov 2025); no charges"
+  },
+  {
+    "date": 1757376000,
+    "name": "Gainzy",
+    "handle": "gainzy222",
+    "role": "Crypto KOL",
+    "scamType": "Insider Dump",
+    "token": "GAINZY",
+    "chain": [
+      "Solana"
+    ],
+    "amount": 168000,
+    "amountDesc": "Sold over 73% of the supply of his own Pump.fun memecoin for ~$168,000, crashing its market cap 99% from ~$4M to ~$12,000.",
+    "deletedPromo": false,
+    "source": [
+      "https://finance.yahoo.com/news/crypto-streamer-crashes-token-says-135554179.html"
+    ],
+    "description": "Long-running crypto-Twitter personality and streamer. In September 2025 he sold more than 73% of the supply of the 'gainzy stream' memecoin he had launched on Pump.fun and promoted to his audience, pocketing about $168,000 as the market cap collapsed 99% from ~$4M to ~$12k, per Benzinga's coverage. Gainzy claimed the sale was 'literally just an accidental click' while 'fiddling with my phone'; observers noted Pump.fun sales require multiple confirmation steps and that a fresh wallet bought the bottom and turned $4,000 into $400,000 on the rebound. No legal action has been documented.",
+    "outcome": null
+  }
+]

@@ -1,0 +1,340 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rug Board</title>
+<meta name="description" content="Documented celebrity and influencer crypto scams: insider dumps, undisclosed promos, deleted promos and abandoned projects, with sources. Built on ZachXBT's investigations. Not exhaustive.">
+<meta property="og:title" content="Rug Board">
+<meta property="og:description" content="Documented celebrity and influencer crypto scams, with estimated amounts, outcomes and sources.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://treeoflife2.github.io/rug-board/">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧶</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=JetBrains+Mono:wght@400;600&display=swap">
+<script>try { const t = localStorage.getItem('theme'); if (t) document.documentElement.dataset.theme = t; } catch {}</script>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f4f5f7; --panel: #ffffff; --ink: #15171c; --muted: #5a6170; --line: #dcdfe5;
+  --link: #b42318; --chip: #eceef2; --tape: #f5c400; --tape-ink: #15171c;
+  --sans: Archivo, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --mono: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+:root[data-theme=dark] {
+  color-scheme: dark;
+  --bg: #121418; --panel: #1a1d23; --ink: #e9ebef; --muted: #9aa1ad; --line: #2b2f37;
+  --link: #ff8a7a; --chip: #252932;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme=light]) {
+    color-scheme: dark;
+    --bg: #121418; --panel: #1a1d23; --ink: #e9ebef; --muted: #9aa1ad; --line: #2b2f37;
+    --link: #ff8a7a; --chip: #252932;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 var(--sans); }
+a { color: var(--link); text-underline-offset: 2px; }
+:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 0 16px; }
+.tape { height: 12px; background: repeating-linear-gradient(-45deg, var(--tape) 0 16px, var(--tape-ink) 16px 32px); }
+header { padding: 28px 0 24px; }
+.top { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; }
+h1 { margin: 0; font-size: clamp(56px, 12vw, 128px); line-height: .86; font-weight: 900; font-stretch: 62%;
+  text-transform: uppercase; letter-spacing: -.01em; }
+.sub { color: var(--muted); margin: 14px 0 0; max-width: 68ch; }
+.summary { font-size: clamp(18px, 2.4vw, 22px); line-height: 1.4; margin: 18px 0 0; max-width: 52ch; }
+.summary b { font-weight: 800; font-variant-numeric: tabular-nums; }
+.credit { margin: 16px 0 0; padding-left: 12px; border-left: 4px solid var(--tape); max-width: 68ch; }
+.filters { position: sticky; top: 0; z-index: 2; background: var(--bg); padding: 10px 0;
+  display: flex; flex-wrap: wrap; gap: 8px; align-items: center; border-bottom: 1px solid var(--line); }
+.filters input[type=search] { flex: 1 1 240px; }
+input, select, button { font: inherit; font-size: 15px; color: var(--ink); background: var(--panel);
+  border: 1px solid var(--line); border-radius: 6px; padding: 7px 10px; }
+button { cursor: pointer; }
+button.primary { background: var(--ink); color: var(--bg); border-color: var(--ink); font-weight: 600; }
+#theme { flex: none; font-size: 14px; }
+label.chk { display: inline-flex; gap: 6px; align-items: center; color: var(--muted); font-size: 14px; white-space: nowrap; }
+.typebar { display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0 4px; }
+.typebar button { border-radius: 999px; padding: 4px 12px; font-size: 14px; }
+.typebar button span { color: var(--muted); margin-left: 4px; font-variant-numeric: tabular-nums; }
+.typebar button[aria-pressed=true] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.typebar button[aria-pressed=true] span { color: inherit; opacity: .7; }
+.count { color: var(--muted); font-size: 14px; margin: 8px 0; }
+.list { display: flex; flex-direction: column; gap: 6px; padding-bottom: 40px; }
+details { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; }
+details[open] { border-color: var(--muted); }
+details:target { outline: 2px solid var(--link); }
+summary { list-style: none; cursor: pointer; padding: 11px 14px; display: grid; align-items: center; gap: 12px;
+  grid-template-columns: 96px minmax(0, 2.2fr) minmax(0, 1.2fr) 110px; }
+summary::-webkit-details-marker { display: none; }
+summary:hover { background: var(--chip); }
+.date { color: var(--muted); font-size: 14px; font-variant-numeric: tabular-nums; }
+.who b { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-weight: 700; }
+.who small, .tok small { color: var(--muted); font-family: var(--sans); }
+.tok { font-family: var(--mono); font-size: 14px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.amt { text-align: right; font-size: 17px; font-weight: 800; font-variant-numeric: tabular-nums; }
+.amt.none { color: var(--muted); font-weight: 400; }
+.body { padding: 4px 14px 16px; border-top: 1px dashed var(--line); }
+.body p { margin: 12px 0; max-width: 75ch; }
+.kv { display: grid; grid-template-columns: 130px 1fr; gap: 4px 12px; font-size: 15px; margin: 10px 0; }
+.kv dt { color: var(--muted); } .kv dd { margin: 0; }
+.chips { display: flex; flex-wrap: wrap; gap: 4px; }
+.chip { background: var(--chip); border-radius: 4px; padding: 1px 7px; font-size: 14px; }
+.src { margin: 6px 0 0; padding-left: 18px; font-size: 14px; word-break: break-all; }
+.actions { display: flex; flex-wrap: wrap; gap: 14px; font-size: 14px; margin-top: 10px; }
+.empty { padding: 40px; text-align: center; color: var(--muted); }
+section.end { margin: 48px 0 0; scroll-margin-top: 130px; }
+section.end h2 { font-size: 32px; line-height: 1; font-weight: 900; font-stretch: 62%; text-transform: uppercase; margin: 0; }
+section.end h3 { font-size: 16px; margin: 22px 0 6px; }
+#excl p { margin: 0; padding: 6px 0; border-bottom: 1px solid var(--line); font-size: 15px; color: var(--muted); }
+#excl b, .thanks b { color: var(--ink); font-weight: 700; }
+.people { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 8px; margin: 14px 0 0; padding: 0; list-style: none; }
+.people li { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 10px 12px; }
+.people small { display: block; color: var(--muted); font-size: 14px; }
+.outlets { display: flex; flex-wrap: wrap; gap: 6px; }
+.outlets a { text-decoration: none; color: var(--ink); }
+.outlets a span { color: var(--muted); margin-left: 4px; }
+footer { margin-top: 48px; border-top: 1px solid var(--line); padding: 20px 0 40px; color: var(--muted); font-size: 15px; }
+footer .wrap { display: flex; flex-wrap: wrap; gap: 8px 20px; }
+@media (max-width: 760px) {
+  .filters { position: static; }
+  summary { grid-template-columns: 1fr auto; gap: 4px 10px; }
+  .date { grid-column: 1; } .amt { grid-column: 2; grid-row: 1; }
+  .who, .tok { grid-column: 1 / -1; }
+  .kv { grid-template-columns: 1fr; } .kv dt { margin-top: 6px; }
+}
+</style>
+</head>
+<body>
+<div class="tape" aria-hidden="true"></div>
+<div class="wrap">
+  <header>
+    <div class="top">
+      <h1>Rug Board</h1>
+      <button id="theme" type="button" aria-label="Switch color theme"></button>
+    </div>
+    <p class="summary" id="stats"></p>
+    <p class="sub">Celebrities, influencers and public figures who used their audience to take money from followers through crypto: insider dumps, undisclosed paid promos, deleted promos and abandoned projects. Every record cites its sources. Amounts are estimates of what the person and their insiders took, drawn from public reporting, not what victims lost.</p>
+    <p class="sub">This list is not exhaustive, and it only covers what public investigations, filings and press have documented. Allegations stay allegations unless a settlement, conviction or admission says otherwise. Know an incident we missed? <a href="https://github.com/treeoflife2/rug-board/issues/new?template=new-incident.yml">Submit it with sources</a>.</p>
+    <p class="credit">Most of these records trace back to the investigations of <a href="https://x.com/zachxbt" target="_blank" rel="noopener"><b>ZachXBT</b></a>. This board wouldn't exist without his work.</p>
+  </header>
+
+  <div class="filters" role="search">
+    <input type="search" id="q" placeholder="Search name, handle, token, description…" aria-label="Search">
+    <select id="role" aria-label="Role"><option value="">All roles</option></select>
+    <select id="chain" aria-label="Chain"><option value="">All chains</option></select>
+    <select id="year" aria-label="Year"><option value="">All years</option></select>
+    <select id="sort" aria-label="Sort">
+      <option value="new">Newest first</option>
+      <option value="old">Oldest first</option>
+      <option value="amt">Largest amount</option>
+      <option value="name">Name A–Z</option>
+    </select>
+    <label class="chk"><input type="checkbox" id="legal"> Legal outcome</label>
+    <label class="chk"><input type="checkbox" id="del"> Deleted promo</label>
+    <label class="chk"><input type="checkbox" id="amt"> Has amount</label>
+    <button id="reset">Reset</button>
+    <button id="share" class="primary">Copy link</button>
+  </div>
+  <div class="typebar" id="types"></div>
+  <div class="count" id="count"></div>
+  <div class="list" id="list"></div>
+
+  <section class="end thanks" id="thanks">
+    <h2>Thanks</h2>
+    <p class="sub">This board stands on other people's work. These investigators did the digging, and the outlets and filings below are every source the records cite.</p>
+    <ul class="people" id="people"></ul>
+    <h3>Outlets and filings cited</h3>
+    <div class="outlets" id="outlets"></div>
+  </section>
+
+  <section class="end" id="excluded" hidden>
+    <h2>Researched and excluded</h2>
+    <p class="sub">Names we looked into and left off the board, with the reason. New evidence that clears the bar can reopen any of them.</p>
+    <div id="excl"></div>
+  </section>
+</div>
+<footer>
+  <div class="wrap">
+    <a href="data/scams.json">Download the data (JSON)</a>
+    <a href="https://github.com/treeoflife2/rug-board">Source and how to contribute</a>
+    <a href="https://github.com/treeoflife2/rug-board/issues/new?template=new-incident.yml">Submit an incident</a>
+    <a href="https://github.com/treeoflife2/rug-board/issues/new">Report a mistake</a>
+  </div>
+</footer>
+<script>
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const safeUrl = u => /^https?:\/\//i.test(u) ? u : '#';
+const slug = s => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+const usd = n => n == null ? '-' : '$' + Intl.NumberFormat('en', { notation: 'compact', maximumFractionDigits: 1 }).format(n);
+const day = t => new Date(t * 1000).toISOString().slice(0, 10);
+const year = t => new Date(t * 1000).getUTCFullYear();
+const TYPES = ['Insider Dump', 'Undisclosed Promo', 'Deleted Promo', 'Abandoned Project'];
+const fields = ['q', 'role', 'chain', 'year', 'sort', 'legal', 'del', 'amt'];
+let data = [], types = new Set();
+
+function fill(sel, values) {
+  sel.insertAdjacentHTML('beforeend', values.map(v => `<option>${esc(v)}</option>`).join(''));
+}
+
+function readUrl() {
+  const p = new URLSearchParams(location.search);
+  for (const f of fields) {
+    const el = $(f);
+    if (el.type === 'checkbox') el.checked = p.get(f) === '1';
+    else el.value = p.get(f) ?? (f === 'sort' ? 'new' : '');
+  }
+  types = new Set((p.get('type') || '').split(',').filter(t => TYPES.includes(t)));
+}
+
+function writeUrl() {
+  const p = new URLSearchParams();
+  for (const f of fields) {
+    const el = $(f);
+    if (el.type === 'checkbox' ? el.checked : el.value && !(f === 'sort' && el.value === 'new')) p.set(f, el.type === 'checkbox' ? '1' : el.value);
+  }
+  if (types.size) p.set('type', [...types].join(','));
+  history.replaceState(null, '', (p.toString() ? '?' + p : location.pathname) + location.hash);
+}
+
+function filtered() {
+  const q = $('q').value.trim().toLowerCase();
+  const out = data.filter(r =>
+    (!q || r._text.includes(q)) &&
+    (!$('role').value || r.role === $('role').value) &&
+    (!$('chain').value || r.chain.includes($('chain').value)) &&
+    (!$('year').value || year(r.date) === +$('year').value) &&
+    (!types.size || types.has(r.scamType)) &&
+    (!$('legal').checked || r.outcome) &&
+    (!$('del').checked || r.deletedPromo) &&
+    (!$('amt').checked || r.amount != null));
+  const s = $('sort').value;
+  const cmp = { new: (a, b) => b.date - a.date, old: (a, b) => a.date - b.date,
+    amt: (a, b) => (b.amount ?? -1) - (a.amount ?? -1), name: (a, b) => a.name.localeCompare(b.name) }[s] || ((a, b) => b.date - a.date);
+  return out.sort(cmp);
+}
+
+function card(r) {
+  const handle = r.handle ? `<a href="https://x.com/${esc(r.handle)}" target="_blank" rel="noopener">@${esc(r.handle)}</a>` : '-';
+  const person = '?q=' + encodeURIComponent(r.name);
+  return `<details id="${r._id}">
+    <summary>
+      <span class="date">${day(r.date)}</span>
+      <span class="who"><b>${esc(r.name)}</b><small>${esc(r.role)}${r.handle ? ' · @' + esc(r.handle) : ''}</small></span>
+      <span class="tok">${esc(r.token || '-')}${r.chain.length ? `<br><small>${esc(r.chain.join(', '))}</small>` : ''}</span>
+      <span class="amt ${r.amount == null ? 'none' : ''}">${r.amount == null ? '-' : '~' + usd(r.amount)}</span>
+    </summary>
+    <div class="body">
+      <p>${esc(r.description)}</p>
+      <dl class="kv">
+        <dt>Type</dt><dd>${esc(r.scamType)}</dd>
+        <dt>Estimated take</dt><dd>${r.amount == null ? 'No reliable estimate' : '~$' + r.amount.toLocaleString('en')}</dd>
+        <dt>Breakdown</dt><dd>${esc(r.amountDesc || '-')}</dd>
+        <dt>Outcome</dt><dd>${esc(r.outcome || 'No legal or regulatory action documented')}</dd>
+        <dt>Deleted promo</dt><dd>${r.deletedPromo ? 'Yes' : 'No'}</dd>
+        <dt>Handle</dt><dd>${handle}</dd>
+        <dt>Chains</dt><dd><span class="chips">${r.chain.map(c => `<span class="chip">${esc(c)}</span>`).join('') || '-'}</span></dd>
+        <dt>Sources</dt><dd><ol class="src">${r.source.map(u => `<li><a href="${esc(safeUrl(u))}" target="_blank" rel="noopener noreferrer">${esc(u)}</a></li>`).join('')}</ol></dd>
+      </dl>
+      <div class="actions"><a href="#${r._id}" data-copy>Copy link to this record</a><a href="${esc(person)}">All records for ${esc(r.name)}</a></div>
+    </div>
+  </details>`;
+}
+
+function render() {
+  writeUrl();
+  const rows = filtered();
+  const people = new Set(rows.map(r => r.name)).size;
+  const total = rows.reduce((s, r) => s + (r.amount || 0), 0);
+  const n = (v, word) => `<b>${v}</b> ${word}${v === 1 ? '' : 's'}`;
+  $('stats').innerHTML = `${n(rows.length, 'incident')} involving <b>${people}</b> people and groups. ` +
+    `Roughly <b>${usd(total)}</b> taken in the cases with a reported estimate. ` +
+    `${n(rows.filter(r => r.outcome).length, 'case')} with legal action, ${n(rows.filter(r => r.deletedPromo).length, 'case')} of deleted promos.`;
+  $('types').innerHTML = TYPES.map(t => `<button aria-pressed="${types.has(t)}" data-type="${esc(t)}">${esc(t)}<span>${data.filter(r => r.scamType === t).length}</span></button>`).join('');
+  $('count').textContent = `Showing ${rows.length} of ${data.length} records`;
+  $('list').innerHTML = rows.map(card).join('') || '<div class="empty">No records match these filters.</div>';
+}
+
+function openHash() {
+  const el = location.hash && document.getElementById(location.hash.slice(1));
+  if (el && el.tagName === 'DETAILS') { el.open = true; el.scrollIntoView({ block: 'center' }); }
+}
+
+async function copy(text, btn) {
+  try { await navigator.clipboard.writeText(text); const t = btn.textContent; btn.textContent = 'Copied'; setTimeout(() => btn.textContent = t, 1200); }
+  catch { prompt('Copy this link', text); }
+}
+
+fetch('data/scams.json').then(r => r.json()).then(json => {
+  const seen = {};
+  data = json.map(r => {
+    let id = slug(`${r.name}-${r.token || r.scamType}-${day(r.date)}`);
+    id = seen[id] ? `${id}-${++seen[id]}` : (seen[id] = 1, id);
+    return { ...r, chain: r.chain || [], source: r.source || [], _id: id,
+      _text: [r.name, r.handle, r.token, r.role, r.scamType, r.description, r.amountDesc, r.outcome, ...(r.chain || [])].join(' ').toLowerCase() };
+  });
+  fill($('role'), [...new Set(data.map(r => r.role))].sort());
+  fill($('chain'), [...new Set(data.flatMap(r => r.chain))].sort());
+  fill($('year'), [...new Set(data.map(r => year(r.date)))].sort((a, b) => b - a));
+  readUrl();
+  render();
+  openHash();
+  thanks();
+}).catch(e => { $('list').innerHTML = `<div class="empty">Could not load data/scams.json (${esc(e.message)}).</div>`; });
+
+const INVESTIGATORS = [
+  ['ZachXBT', 'https://x.com/zachxbt', 'On-chain investigator'],
+  ['Coffeezilla', 'https://www.youtube.com/@Coffeezilla', 'Video investigations'],
+  ['Bubblemaps', 'https://x.com/bubblemaps', 'Wallet cluster analysis'],
+  ['Nansen', 'https://www.nansen.ai', 'On-chain analytics'],
+  ['Lookonchain', 'https://x.com/lookonchain', 'On-chain tracking'],
+];
+
+function thanks() {
+  const cited = name => data.filter(r => (r._text + ' ' + r.source.join(' ')).toLowerCase().includes(name.toLowerCase())).length;
+  $('people').innerHTML = INVESTIGATORS.map(([name, url, what]) =>
+    `<li><a href="${url}" target="_blank" rel="noopener"><b>${name}</b></a><small>${what}, cited in ${cited(name)} records</small></li>`).join('');
+  const hosts = {};
+  for (const u of data.flatMap(r => r.source)) { try { const h = new URL(u).hostname.replace(/^www\./, ''); hosts[h] = (hosts[h] || 0) + 1; } catch {} }
+  $('outlets').innerHTML = Object.entries(hosts).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+    .map(([h, c]) => `<a class="chip" href="https://${esc(h)}" target="_blank" rel="noopener noreferrer">${esc(h)}<span>${c}</span></a>`).join('');
+}
+
+// ponytail: excluded.md is the single source; only "## heading" and "- bullet" lines are rendered
+fetch('excluded.md').then(r => r.ok ? r.text() : Promise.reject()).then(md => {
+  const bold = s => esc(s).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
+  $('excl').innerHTML = md.split('\n').map(l =>
+    l.startsWith('## ') ? `<h3>${esc(l.slice(3))}</h3>` : l.startsWith('- ') ? `<p>${bold(l.slice(2))}</p>` : '').join('');
+  $('excluded').hidden = false;
+}).catch(() => {});
+
+for (const f of fields) $(f).addEventListener(f === 'q' ? 'input' : 'change', render);
+$('types').addEventListener('click', e => {
+  const t = e.target.closest('button')?.dataset.type; if (!t) return;
+  types.has(t) ? types.delete(t) : types.add(t); render();
+});
+$('reset').addEventListener('click', () => { history.replaceState(null, '', location.pathname); readUrl(); render(); });
+$('share').addEventListener('click', e => copy(location.href, e.target));
+$('list').addEventListener('click', e => {
+  const a = e.target.closest('a[data-copy]'); if (!a) return;
+  e.preventDefault(); history.replaceState(null, '', location.search + a.getAttribute('href')); copy(location.href, a);
+});
+addEventListener('hashchange', openHash);
+
+const isDark = () => (document.documentElement.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')) === 'dark';
+const themeLabel = () => { $('theme').textContent = isDark() ? 'Light mode' : 'Dark mode'; };
+$('theme').addEventListener('click', () => {
+  const t = isDark() ? 'light' : 'dark';
+  document.documentElement.dataset.theme = t;
+  try { localStorage.setItem('theme', t); } catch {}
+  themeLabel();
+});
+themeLabel();
+</script>
+</body>
+</html>

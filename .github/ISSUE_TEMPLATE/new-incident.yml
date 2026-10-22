@@ -1,0 +1,68 @@
+name: Submit an incident
+description: Report a celebrity or influencer crypto scam that is missing from the board.
+title: "[Incident] "
+labels: ["new incident"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping. Please check the board and excluded.md first, and read the scope section of the README. Hacked accounts, fan coins and disclosed promos that simply went down are out of scope.
+  - type: input
+    id: name
+    attributes:
+      label: Person or group
+      placeholder: e.g. Haliey Welch
+    validations:
+      required: true
+  - type: input
+    id: handle
+    attributes:
+      label: X handle (without @)
+  - type: input
+    id: token
+    attributes:
+      label: Token or project
+      placeholder: e.g. HAWK
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - Insider Dump
+        - Undisclosed Promo
+        - Deleted Promo
+        - Abandoned Project
+        - Not sure
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date (launch, promo or dump)
+      placeholder: e.g. 2024-12-04
+  - type: input
+    id: chain
+    attributes:
+      label: Chain
+      placeholder: e.g. Solana
+  - type: input
+    id: amount
+    attributes:
+      label: Estimated amount taken by the person and insiders (USD)
+      description: Not the market-cap drop or total victim losses. Leave empty if there is no reliable estimate.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What they promoted, how the money was taken, and any legal outcome. Write allegations as allegations.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: One https link per line. Investigations (ZachXBT, Coffeezilla, Bubblemaps), filings, or established outlets. Index pages and SEO coin sites don't count.
+    validations:
+      required: true
